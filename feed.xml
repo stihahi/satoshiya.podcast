@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- generator="podbean/5.5" -->
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+    <title>シアトルエンジニアのデプロイ待ち</title>
+    <atom:link href="https://feed.podbean.com/satoshiyagafa/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://satoshiyagafa.podbean.com</link>
+    <description><![CDATA[<p>TL;DR; TBD<br /><br />デプロイ待ちの間にするような日常会話を、気楽に集めて話します。</p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p class="p1"><a href="https://forms.gle/V1Jx5K27TN7ht5oC9" target="_blank" rel="noreferrer noopener">https://forms.gle/V1Jx5K27TN7ht5oC9</a></p>
+<p></p>
+<p>Music by SUNO.</p>]]></description>
+    <pubDate>Sat, 22 Nov 2025 16:00:00 -0400</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>en</language>
+        <copyright>Copyright 2025 All rights reserved.</copyright>
+    <category>Education</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+          <itunes:summary>TL;DR; TBD
+
+デプロイ待ちの間にするような日常会話を、気楽に集めて話します。
+
+トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。
+
+https://forms.gle/V1Jx5K27TN7ht5oC9</itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+<itunes:category text="Education" />
+<itunes:category text="Technology" />
+<itunes:category text="Society &amp; Culture" />
+    <itunes:owner>
+        <itunes:name>satoshiyagafa</itunes:name>
+            </itunes:owner>
+    	<itunes:block>No</itunes:block>
+	<itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/21035984/pipe2_small.png" />
+    <image>
+        <url>https://pbcdn1.podbean.com/imglogo/image-logo/21035984/pipe2_small.png</url>
+        <title>シアトルエンジニアのデプロイ待ち</title>
+        <link>https://satoshiyagafa.podbean.com</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <item>
+        <title>[EP19] エンジニア3人が語る、アメリカ生活の発見とギャップ</title>
+        <itunes:title>[EP19] エンジニア3人が語る、アメリカ生活の発見とギャップ</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep19/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep19/#comments</comments>        <pubDate>Sat, 22 Nov 2025 16:00:00 -0400</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/e79f18ba-45a3-3e95-b06a-02b062d8ce49</guid>
+                                    <description><![CDATA[<p>シアトル郊外で働く日本人エンジニア、コモダ・イワイ・クロダの3人が、「アメリカで暮らしてみて感じたこと」を語る回。
+前回の“どうやってアメリカに来たか”に続き、今回は来てからわかった働き方・暮らし方の違いを中心にトークします。</p>
+<p>00:00　オープニング＆番組紹介
+01:00　前回の振り返り：「なぜアメリカに来たのか」
+03:30　来てみて感じた仕事環境の違い（ポジション・転職・人の入れ替わり）
+09:00　チームカルチャーと多様性：インド系・中華系が多い職場の現実
+13:00　英語コミュニケーションと雑談の壁
+17:30　税金・投資・資産形成：日本との大きな違い
+22:30　生活コストとライフスタイル：外食・DIY・節約術
+27:00　子どもの教育とバイリンガル育児：言語の維持と学び方
+33:00　シアトルの気候と暮らし：犬・自然・ビール文化
+38:00　アメリカに来て感じた「自由さ」と「不便さ」
+41:30　まとめ：アメリカ生活で得た気づきとこれから</p>
+<p> </p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>シアトル郊外で働く日本人エンジニア、コモダ・イワイ・クロダの3人が、「アメリカで暮らしてみて感じたこと」を語る回。<br>
+前回の“どうやってアメリカに来たか”に続き、今回は来てからわかった働き方・暮らし方の違いを中心にトークします。</p>
+<p>00:00　オープニング＆番組紹介<br>
+01:00　前回の振り返り：「なぜアメリカに来たのか」<br>
+03:30　来てみて感じた仕事環境の違い（ポジション・転職・人の入れ替わり）<br>
+09:00　チームカルチャーと多様性：インド系・中華系が多い職場の現実<br>
+13:00　英語コミュニケーションと雑談の壁<br>
+17:30　税金・投資・資産形成：日本との大きな違い<br>
+22:30　生活コストとライフスタイル：外食・DIY・節約術<br>
+27:00　子どもの教育とバイリンガル育児：言語の維持と学び方<br>
+33:00　シアトルの気候と暮らし：犬・自然・ビール文化<br>
+38:00　アメリカに来て感じた「自由さ」と「不便さ」<br>
+41:30　まとめ：アメリカ生活で得た気づきとこれから</p>
+<p> </p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/qip83w4zzfzphfg7/ep19_normalized.mp3" length="103020027" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[シアトル郊外で働く日本人エンジニア、コモダ・イワイ・クロダの3人が、「アメリカで暮らしてみて感じたこと」を語る回。前回の“どうやってアメリカに来たか”に続き、今回は来てからわかった働き方・暮らし方の違いを中心にトークします。
+00:00　オープニング＆番組紹介01:00　前回の振り返り：「なぜアメリカに来たのか」03:30　来てみて感じた仕事環境の違い（ポジション・転職・人の入れ替わり）09:00　チームカルチャーと多様性：インド系・中華系が多い職場の現実13:00　英語コミュニケーションと雑談の壁17:30　税金・投資・資産形成：日本との大きな違い22:30　生活コストとライフスタイル：外食・DIY・節約術27:00　子どもの教育とバイリンガル育児：言語の維持と学び方33:00　シアトルの気候と暮らし：犬・自然・ビール文化38:00　アメリカに来て感じた「自由さ」と「不便さ」41:30　まとめ：アメリカ生活で得た気づきとこれから
+ 
+トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。
+https://forms.gle/V1Jx5K27TN7ht5oC9]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2575</itunes:duration>
+                <itunes:episode>19</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>[EP18] どうやってアメリカで働くことになったか：3人のエンジニアが話す現実</title>
+        <itunes:title>[EP18] どうやってアメリカで働くことになったか：3人のエンジニアが話す現実</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep18%e3%81%a9%e3%81%86%e3%82%84%e3%81%a3%e3%81%a6%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%a7%e5%83%8d%e3%81%8f%e3%81%93/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep18%e3%81%a9%e3%81%86%e3%82%84%e3%81%a3%e3%81%a6%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%a7%e5%83%8d%e3%81%8f%e3%81%93/#comments</comments>        <pubDate>Sat, 15 Nov 2025 16:00:00 -0400</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/e3944d74-68ff-36a9-8e4a-05ec329d14a9</guid>
+                                    <description><![CDATA[<p>シアトルで働く日本人エンジニア3人が、どうやってアメリカで働くことになったのかを率直に語る回。
+転職、社内異動、ビザ、家族、生活――“行きたい”を“実現する”までの現実を話します。</p>
+<p> </p>
+<p>00:00　イントロと自己紹介  
+05:00　最初の渡米きっかけ（Microsoft時代）  
+10:00　シリコンバレー・西海岸への憧れ  
+15:00　Amazon転職とキャリア転機  
+20:00　2021年前後の渡米事情とタイミング  
+25:00　家族との話し合い・生活準備  
+30:00　まとめ：なぜ来たのか・どう活かすか </p>
+<p> </p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>シアトルで働く日本人エンジニア3人が、どうやってアメリカで働くことになったのかを率直に語る回。<br>
+転職、社内異動、ビザ、家族、生活――“行きたい”を“実現する”までの現実を話します。</p>
+<p> </p>
+<p>00:00　イントロと自己紹介  <br>
+05:00　最初の渡米きっかけ（Microsoft時代）  <br>
+10:00　シリコンバレー・西海岸への憧れ  <br>
+15:00　Amazon転職とキャリア転機  <br>
+20:00　2021年前後の渡米事情とタイミング  <br>
+25:00　家族との話し合い・生活準備  <br>
+30:00　まとめ：なぜ来たのか・どう活かすか </p>
+<p> </p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/tce4fsga9pu6qg44/ep18_normalized.mp3" length="78529709" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[シアトルで働く日本人エンジニア3人が、どうやってアメリカで働くことになったのかを率直に語る回。転職、社内異動、ビザ、家族、生活――“行きたい”を“実現する”までの現実を話します。
+ 
+00:00　イントロと自己紹介  05:00　最初の渡米きっかけ（Microsoft時代）  10:00　シリコンバレー・西海岸への憧れ  15:00　Amazon転職とキャリア転機  20:00　2021年前後の渡米事情とタイミング  25:00　家族との話し合い・生活準備  30:00　まとめ：なぜ来たのか・どう活かすか 
+ 
+トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。
+https://forms.gle/V1Jx5K27TN7ht5oC9]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1963</itunes:duration>
+                <itunes:episode>18</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/vbu7697znx2rhtst/ep18.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP17] ルーティンが定まらない：シアトルエンジニア2人の仕事と日常のすき間時間</title>
+        <itunes:title>[EP17] ルーティンが定まらない：シアトルエンジニア2人の仕事と日常のすき間時間</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep17%e3%83%ab%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%81%8c%e5%ae%9a%e3%81%be%e3%82%89%e3%81%aa%e3%81%84%ef%bc%9a%e3%82%b7/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep17%e3%83%ab%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%81%8c%e5%ae%9a%e3%81%be%e3%82%89%e3%81%aa%e3%81%84%ef%bc%9a%e3%82%b7/#comments</comments>        <pubDate>Sat, 08 Nov 2025 16:00:00 -0400</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/566f745f-5198-3ab5-a8fb-e3959f319521</guid>
+                                    <description><![CDATA[<p>シアトル郊外で働く日本人エンジニア、コモダ＆イワイが、「ルーティン」をテーマに語る回。</p>
+<p>SNSで人気の“モーニングルーティン動画”をきっかけに、2人の実際の働き方や毎日の過ごし方を振り返ります。
+カフェラテを買う朝の習慣、スタンドアップミーティング、午前のコーディング時間、インドチームとの深夜対応、オンコールや子どもの送り迎えなど、エンジニアの日常にあるリズムや工夫が次々と登場。</p>
+<p>後半では、アメリカのワンオンワン文化やメンタリング、社内ネットワークづくり、キャリアの進め方など“仕事を続ける仕組み”についても話が広がります。
+最後は「ルーティンを語るつもりが、働き方の話になってしまった」という2人らしい締めくくり。
+決まった形よりも、自分のリズムで働くことの面白さを感じられる一回です。</p>
+<p> </p>
+<p>00:00　オープニング＆番組紹介
+00:25　テーマ発表：「ルーティン」って何？
+01:30　朝の習慣：毎日のカフェラテと“いつもの注文”
+03:00　スタンドアップミーティングとグローバル時差の壁
+05:30　インドチームとの深夜ミーティング地獄
+07:00　朝コーディング派の理想と現実
+09:30　オンコール・レビュー・夕方の作業リズム
+12:00　曜日ごとの働き方と“車中テスラ仕事”
+14:30　休日の過ごし方と技術キャッチアップの模索
+17:00　「効率化しすぎない」ポッドキャストと余白の大切さ
+19:00　メンター・ワンオンワン文化と人脈の作り方
+24:00　キャリアを動かす社内ネットワークと“知り合いドリブン”
+28:00　ワンオンワンの実際：寿司の話から始まる英会話訓練
+31:00　プリンシパルエンジニアとの関係と技術的相談のルーティン
+33:30　土日は“コーディングしない勇気”と趣味探しの悩み
+36:00　エンディング：結局、ルーティンは形じゃなく流れの中にある</p>
+<p> </p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>シアトル郊外で働く日本人エンジニア、コモダ＆イワイが、「ルーティン」をテーマに語る回。</p>
+<p>SNSで人気の“モーニングルーティン動画”をきっかけに、2人の実際の働き方や毎日の過ごし方を振り返ります。<br>
+カフェラテを買う朝の習慣、スタンドアップミーティング、午前のコーディング時間、インドチームとの深夜対応、オンコールや子どもの送り迎えなど、エンジニアの日常にあるリズムや工夫が次々と登場。</p>
+<p>後半では、アメリカのワンオンワン文化やメンタリング、社内ネットワークづくり、キャリアの進め方など“仕事を続ける仕組み”についても話が広がります。<br>
+最後は「ルーティンを語るつもりが、働き方の話になってしまった」という2人らしい締めくくり。<br>
+決まった形よりも、自分のリズムで働くことの面白さを感じられる一回です。</p>
+<p> </p>
+<p>00:00　オープニング＆番組紹介<br>
+00:25　テーマ発表：「ルーティン」って何？<br>
+01:30　朝の習慣：毎日のカフェラテと“いつもの注文”<br>
+03:00　スタンドアップミーティングとグローバル時差の壁<br>
+05:30　インドチームとの深夜ミーティング地獄<br>
+07:00　朝コーディング派の理想と現実<br>
+09:30　オンコール・レビュー・夕方の作業リズム<br>
+12:00　曜日ごとの働き方と“車中テスラ仕事”<br>
+14:30　休日の過ごし方と技術キャッチアップの模索<br>
+17:00　「効率化しすぎない」ポッドキャストと余白の大切さ<br>
+19:00　メンター・ワンオンワン文化と人脈の作り方<br>
+24:00　キャリアを動かす社内ネットワークと“知り合いドリブン”<br>
+28:00　ワンオンワンの実際：寿司の話から始まる英会話訓練<br>
+31:00　プリンシパルエンジニアとの関係と技術的相談のルーティン<br>
+33:30　土日は“コーディングしない勇気”と趣味探しの悩み<br>
+36:00　エンディング：結局、ルーティンは形じゃなく流れの中にある</p>
+<p> </p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/k3apujymavc2ndq5/ep17_normalized.mp3" length="91131178" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[シアトル郊外で働く日本人エンジニア、コモダ＆イワイが、「ルーティン」をテーマに語る回。
+SNSで人気の“モーニングルーティン動画”をきっかけに、2人の実際の働き方や毎日の過ごし方を振り返ります。カフェラテを買う朝の習慣、スタンドアップミーティング、午前のコーディング時間、インドチームとの深夜対応、オンコールや子どもの送り迎えなど、エンジニアの日常にあるリズムや工夫が次々と登場。
+後半では、アメリカのワンオンワン文化やメンタリング、社内ネットワークづくり、キャリアの進め方など“仕事を続ける仕組み”についても話が広がります。最後は「ルーティンを語るつもりが、働き方の話になってしまった」という2人らしい締めくくり。決まった形よりも、自分のリズムで働くことの面白さを感じられる一回です。
+ 
+00:00　オープニング＆番組紹介00:25　テーマ発表：「ルーティン」って何？01:30　朝の習慣：毎日のカフェラテと“いつもの注文”03:00　スタンドアップミーティングとグローバル時差の壁05:30　インドチームとの深夜ミーティング地獄07:00　朝コーディング派の理想と現実09:30　オンコール・レビュー・夕方の作業リズム12:00　曜日ごとの働き方と“車中テスラ仕事”14:30　休日の過ごし方と技術キャッチアップの模索17:00　「効率化しすぎない」ポッドキャストと余白の大切さ19:00　メンター・ワンオンワン文化と人脈の作り方24:00　キャリアを動かす社内ネットワークと“知り合いドリブン”28:00　ワンオンワンの実際：寿司の話から始まる英会話訓練31:00　プリンシパルエンジニアとの関係と技術的相談のルーティン33:30　土日は“コーディングしない勇気”と趣味探しの悩み36:00　エンディング：結局、ルーティンは形じゃなく流れの中にある
+ 
+トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。
+https://forms.gle/V1Jx5K27TN7ht5oC9]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2278</itunes:duration>
+                <itunes:episode>17</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/p65qpw534yb866tc/ep17.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP16] フルセルフ“じゃない”ドライビング：テスラFSDを語る</title>
+        <itunes:title>[EP16] フルセルフ“じゃない”ドライビング：テスラFSDを語る</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep16%e3%83%95%e3%83%ab%e3%82%bb%e3%83%ab%e3%83%95-%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-%e3%83%89%e3%83%a9%e3%82%a4%e3%83%93%e3%83%b3%e3%82%b0%ef%bc%9a/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep16%e3%83%95%e3%83%ab%e3%82%bb%e3%83%ab%e3%83%95-%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-%e3%83%89%e3%83%a9%e3%82%a4%e3%83%93%e3%83%b3%e3%82%b0%ef%bc%9a/#comments</comments>        <pubDate>Sat, 01 Nov 2025 16:00:00 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/3c5a82c2-0ec0-3e12-9c9a-c0d65facc10a</guid>
+                                    <description><![CDATA[<p>アメリカ・シアトル郊外で働く日本人エンジニア、コモダ＆イワイが、テスラの「フルセルフドライビング（FSD）」をテーマにゆるく語る回。</p>
+<p>冒頭はエンジニアらしいデプロイ雑談から始まり、ニュースで話題になった「日本での自動運転テスト開始」や“FSD＝FullだけどSupervised（監督付き）”という現実にツッコミを入れながら、実際の利用体験をリアルに共有。</p>
+<p>郊外での通勤、雨の日や夜道の挙動、駐車場でのドキドキ体験、スマホ操作中に怒られるAIカメラ、そして「AI運転の限界と便利さ」まで、ユーザーとしての肌感を語ります。
+最後はメンテナンス、リース、サイバートラック、日本の法規制の話題へ。
+“車輪のついたiPad”としてのテスラを、日常とテック両面から見つめます。</p>
+<p> </p>
+<p>00:00　オープニング＆デプロイ雑談
+02:30　「ガラケーの方がページャー早い」話から品質談義へ
+03:30　今回のテーマ：テスラFSDとは？“フルだけど監督付き”問題
+05:30　二人ともテスラユーザーに／月額課金と依存のリアル
+08:30　初期FSDの挙動と「怖かった頃」の話
+11:00　アップデートで一気に実用的に／郊外運転はほぼ安心
+14:00　駐車場・私有地の限界と“譲り合えないAI”
+18:00　雨・夜間の認識精度／スマホ操作で怒られる機能
+22:00　高速道路での安定性とスレスレ挙動の怖さ
+27:00　タイヤ交換・代車モデルS体験／“車輪のついたiPad”感
+32:00　サイバートラック・日本での法規制とリース戦略
+34:30　エンディング：「テスラはまだフルじゃないけど、もう未来の車」</p>
+<p> </p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>アメリカ・シアトル郊外で働く日本人エンジニア、コモダ＆イワイが、テスラの「フルセルフドライビング（FSD）」をテーマにゆるく語る回。</p>
+<p>冒頭はエンジニアらしいデプロイ雑談から始まり、ニュースで話題になった「日本での自動運転テスト開始」や“FSD＝FullだけどSupervised（監督付き）”という現実にツッコミを入れながら、実際の利用体験をリアルに共有。</p>
+<p>郊外での通勤、雨の日や夜道の挙動、駐車場でのドキドキ体験、スマホ操作中に怒られるAIカメラ、そして「AI運転の限界と便利さ」まで、ユーザーとしての肌感を語ります。<br>
+最後はメンテナンス、リース、サイバートラック、日本の法規制の話題へ。<br>
+“車輪のついたiPad”としてのテスラを、日常とテック両面から見つめます。</p>
+<p> </p>
+<p>00:00　オープニング＆デプロイ雑談<br>
+02:30　「ガラケーの方がページャー早い」話から品質談義へ<br>
+03:30　今回のテーマ：テスラFSDとは？“フルだけど監督付き”問題<br>
+05:30　二人ともテスラユーザーに／月額課金と依存のリアル<br>
+08:30　初期FSDの挙動と「怖かった頃」の話<br>
+11:00　アップデートで一気に実用的に／郊外運転はほぼ安心<br>
+14:00　駐車場・私有地の限界と“譲り合えないAI”<br>
+18:00　雨・夜間の認識精度／スマホ操作で怒られる機能<br>
+22:00　高速道路での安定性とスレスレ挙動の怖さ<br>
+27:00　タイヤ交換・代車モデルS体験／“車輪のついたiPad”感<br>
+32:00　サイバートラック・日本での法規制とリース戦略<br>
+34:30　エンディング：「テスラはまだフルじゃないけど、もう未来の車」</p>
+<p> </p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/2vgygrind6g88enk/ep16_normalized.mp3" length="86137611" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[アメリカ・シアトル郊外で働く日本人エンジニア、コモダ＆イワイが、テスラの「フルセルフドライビング（FSD）」をテーマにゆるく語る回。
+冒頭はエンジニアらしいデプロイ雑談から始まり、ニュースで話題になった「日本での自動運転テスト開始」や“FSD＝FullだけどSupervised（監督付き）”という現実にツッコミを入れながら、実際の利用体験をリアルに共有。
+郊外での通勤、雨の日や夜道の挙動、駐車場でのドキドキ体験、スマホ操作中に怒られるAIカメラ、そして「AI運転の限界と便利さ」まで、ユーザーとしての肌感を語ります。最後はメンテナンス、リース、サイバートラック、日本の法規制の話題へ。“車輪のついたiPad”としてのテスラを、日常とテック両面から見つめます。
+ 
+00:00　オープニング＆デプロイ雑談02:30　「ガラケーの方がページャー早い」話から品質談義へ03:30　今回のテーマ：テスラFSDとは？“フルだけど監督付き”問題05:30　二人ともテスラユーザーに／月額課金と依存のリアル08:30　初期FSDの挙動と「怖かった頃」の話11:00　アップデートで一気に実用的に／郊外運転はほぼ安心14:00　駐車場・私有地の限界と“譲り合えないAI”18:00　雨・夜間の認識精度／スマホ操作で怒られる機能22:00　高速道路での安定性とスレスレ挙動の怖さ27:00　タイヤ交換・代車モデルS体験／“車輪のついたiPad”感32:00　サイバートラック・日本での法規制とリース戦略34:30　エンディング：「テスラはまだフルじゃないけど、もう未来の車」
+ 
+トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。
+https://forms.gle/V1Jx5K27TN7ht5oC9]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2153</itunes:duration>
+                <itunes:episode>16</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/an65hfw5xhvevyfu/ep16.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP15] 生成AIと現場エンジニアの微妙な距離感をゆるく語る</title>
+        <itunes:title>[EP15] 生成AIと現場エンジニアの微妙な距離感をゆるく語る</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep15%e7%94%9f%e6%88%90ai%e3%81%a8%e7%8f%be%e5%a0%b4%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%81%ae%e5%be%ae%e5%a6%99%e3%81%aa%e8%b7%9d%e9%9b%a2/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep15%e7%94%9f%e6%88%90ai%e3%81%a8%e7%8f%be%e5%a0%b4%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%81%ae%e5%be%ae%e5%a6%99%e3%81%aa%e8%b7%9d%e9%9b%a2/#comments</comments>        <pubDate>Sat, 25 Oct 2025 16:21:58 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/b5fff64f-5563-3639-9c02-32c89197e08f</guid>
+                                    <description><![CDATA[<p>アメリカ・シアトル郊外で働く日本人エンジニア、コモダ＆イワイが、DIY修理からAIコード生成まで、現場の“リアルな距離感”をゆるく語る回。
+蛇口修理の奮闘から始まり、生成AIが書いたコードとどう付き合うか、レビュー文化や品質管理、経営層の幻想まで、現場目線で深掘りします。
+最後は「AIはもう日常。でも最後に責任を持つのは人間」という結論に。</p>
+<p>00:00　オープニング＆番組紹介
+00:35　DIY蛇口修理の続編と“自分でやる精神”
+05:10　DIYからAIへ：スクリプト生成とプロンプト設計
+10:05　AIコード修正の難しさとメンテナンス性問題
+15:10　レビュー疲れとAI生成コードへのヘイト
+20:05　経営層の「AIでエンジニア削減」幻想
+25:00　フロントエンド生成コードの混沌と課題
+30:05　結論：「AIは日常、でも責任は人間に」</p>
+<p> </p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>アメリカ・シアトル郊外で働く日本人エンジニア、コモダ＆イワイが、DIY修理からAIコード生成まで、現場の“リアルな距離感”をゆるく語る回。<br>
+蛇口修理の奮闘から始まり、生成AIが書いたコードとどう付き合うか、レビュー文化や品質管理、経営層の幻想まで、現場目線で深掘りします。<br>
+最後は「AIはもう日常。でも最後に責任を持つのは人間」という結論に。</p>
+<p>00:00　オープニング＆番組紹介<br>
+00:35　DIY蛇口修理の続編と“自分でやる精神”<br>
+05:10　DIYからAIへ：スクリプト生成とプロンプト設計<br>
+10:05　AIコード修正の難しさとメンテナンス性問題<br>
+15:10　レビュー疲れとAI生成コードへのヘイト<br>
+20:05　経営層の「AIでエンジニア削減」幻想<br>
+25:00　フロントエンド生成コードの混沌と課題<br>
+30:05　結論：「AIは日常、でも責任は人間に」</p>
+<p> </p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/sk7kf3iwi6qz56fr/ep15_normalized.mp3" length="77162982" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[アメリカ・シアトル郊外で働く日本人エンジニア、コモダ＆イワイが、DIY修理からAIコード生成まで、現場の“リアルな距離感”をゆるく語る回。蛇口修理の奮闘から始まり、生成AIが書いたコードとどう付き合うか、レビュー文化や品質管理、経営層の幻想まで、現場目線で深掘りします。最後は「AIはもう日常。でも最後に責任を持つのは人間」という結論に。
+00:00　オープニング＆番組紹介00:35　DIY蛇口修理の続編と“自分でやる精神”05:10　DIYからAIへ：スクリプト生成とプロンプト設計10:05　AIコード修正の難しさとメンテナンス性問題15:10　レビュー疲れとAI生成コードへのヘイト20:05　経営層の「AIでエンジニア削減」幻想25:00　フロントエンド生成コードの混沌と課題30:05　結論：「AIは日常、でも責任は人間に」
+ 
+トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。
+https://forms.gle/V1Jx5K27TN7ht5oC9]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1929</itunes:duration>
+                <itunes:episode>15</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/bqjd6pvsqkqrce7v/ep15.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP14] DIYで暮らしをつなぐ：業者見積もりと冬の光の話</title>
+        <itunes:title>[EP14] DIYで暮らしをつなぐ：業者見積もりと冬の光の話</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep14/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep14/#comments</comments>        <pubDate>Sat, 18 Oct 2025 16:00:00 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/185a7177-37c6-33ec-b0a7-d2fd983d6c9b</guid>
+                                    <description><![CDATA[
+
+
+
+
+
+
+<p>アメリカ・シアトル郊外に暮らす日本人エンジニア、コモダ＆イワイが、冬の生活とDIYのリアルを語る第14回。
+傘を差さない文化、霧雨が続く気候、サマータイムの切り替え、そして暗い冬を少しでも明るくするための“光をDIYする”試み――。スカイライト風ライトや光目覚ましの導入など、日照不足との付き合い方から話が広がります。</p>
+<p>後半は、お風呂の蛇口がポタポタ止まらない問題をめぐる奮闘記。
+三社見積もり（1500ドル／700ドル／500ドル）で揺れる修理相場、Googleレンズで部品を特定してDIYで乗り切るまでのドキュメント、そしてガレージ修理・インスペクション（住宅検査）談義へと展開。
+アメリカで暮らす中で感じる“自力で何とかする”精神と、そこに宿るユーモアを軽快に語ります。</p>
+
+
+
+
+ 
+
+
+
+ ]]></description>
+                                                            <content:encoded><![CDATA[
+
+
+
+
+
+
+<p>アメリカ・シアトル郊外に暮らす日本人エンジニア、コモダ＆イワイが、冬の生活とDIYのリアルを語る第14回。<br>
+傘を差さない文化、霧雨が続く気候、サマータイムの切り替え、そして暗い冬を少しでも明るくするための“光をDIYする”試み――。スカイライト風ライトや光目覚ましの導入など、日照不足との付き合い方から話が広がります。</p>
+<p>後半は、お風呂の蛇口がポタポタ止まらない問題をめぐる奮闘記。<br>
+三社見積もり（1500ドル／700ドル／500ドル）で揺れる修理相場、Googleレンズで部品を特定してDIYで乗り切るまでのドキュメント、そしてガレージ修理・インスペクション（住宅検査）談義へと展開。<br>
+アメリカで暮らす中で感じる“自力で何とかする”精神と、そこに宿るユーモアを軽快に語ります。</p>
+
+
+
+
+ 
+
+
+
+ ]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/qynimsheyccr7n4r/ep14_normalized.mp3" length="88812550" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[
+
+
+
+
+
+
+アメリカ・シアトル郊外に暮らす日本人エンジニア、コモダ＆イワイが、冬の生活とDIYのリアルを語る第14回。傘を差さない文化、霧雨が続く気候、サマータイムの切り替え、そして暗い冬を少しでも明るくするための“光をDIYする”試み――。スカイライト風ライトや光目覚ましの導入など、日照不足との付き合い方から話が広がります。
+後半は、お風呂の蛇口がポタポタ止まらない問題をめぐる奮闘記。三社見積もり（1500ドル／700ドル／500ドル）で揺れる修理相場、Googleレンズで部品を特定してDIYで乗り切るまでのドキュメント、そしてガレージ修理・インスペクション（住宅検査）談義へと展開。アメリカで暮らす中で感じる“自力で何とかする”精神と、そこに宿るユーモアを軽快に語ります。
+
+
+
+
+ 
+
+
+
+ ]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2220</itunes:duration>
+                <itunes:episode>14</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>[EP13] Deliver Through OthersからDeliver Through AIへ――開発現場が変わる日</title>
+        <itunes:title>[EP13] Deliver Through OthersからDeliver Through AIへ――開発現場が変わる日</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep13deliverthrough-others%e3%81%8b%e3%82%89deliver-through-ai%e3%81%b8%e2%80%95%e2%80%95%e9%96%8b%e7%99%ba%e7%8f%be/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep13deliverthrough-others%e3%81%8b%e3%82%89deliver-through-ai%e3%81%b8%e2%80%95%e2%80%95%e9%96%8b%e7%99%ba%e7%8f%be/#comments</comments>        <pubDate>Sat, 11 Oct 2025 16:00:00 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/0697ba59-8c0f-3a94-8a0b-e7a0ec4aefea</guid>
+                                    <description><![CDATA[<p>第13回は、前回のチームカルチャー回の続編。
+時事ネタ（H-1Bビザの話題／ハワイ行き航空券の価格差の謎談義）をきっかけに、「Deliver Through Others（他者を通じて成果を出す）」が、LLM活用でどう変わるのかを本音で議論。</p>
+<ul>
+<li>
+<p>コードレビューと共通言語づくり、オーナーシップの効用と副作用</p>
+</li>
+<li>
+<p>「怠惰・短気・傲慢」という古典的“エンジニア三大美徳”を、現代の開発運用とテスト文化に照らして再解釈</p>
+</li>
+<li>
+<p>仕様の“What/Doneの基準”は固めつつ、Howは任せる任せ方の設計</p>
+</li>
+<li>
+<p>生成AIに仕事を振るときの課題：コンテキスト投入コスト、品質基準、テストでの担保</p>
+</li>
+</ul>
+<p>最後は「Deliver Through AI」というキーワードで締め。人とAIに“どう任せるか”が、個人のインパクトとチームの伸びしろを左右する――そんな回です。</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>第13回は、前回のチームカルチャー回の続編。<br>
+時事ネタ（H-1Bビザの話題／ハワイ行き航空券の価格差の謎談義）をきっかけに、「Deliver Through Others（他者を通じて成果を出す）」が、LLM活用でどう変わるのかを本音で議論。</p>
+<ul>
+<li>
+<p>コードレビューと共通言語づくり、オーナーシップの効用と副作用</p>
+</li>
+<li>
+<p>「怠惰・短気・傲慢」という古典的“エンジニア三大美徳”を、現代の開発運用とテスト文化に照らして再解釈</p>
+</li>
+<li>
+<p>仕様の“What/Doneの基準”は固めつつ、Howは任せる任せ方の設計</p>
+</li>
+<li>
+<p>生成AIに仕事を振るときの課題：コンテキスト投入コスト、品質基準、テストでの担保</p>
+</li>
+</ul>
+<p>最後は「Deliver Through AI」というキーワードで締め。人とAIに“どう任せるか”が、個人のインパクトとチームの伸びしろを左右する――そんな回です。</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/jwchvxrak47hf8pw/ep13.mp3" length="71004497" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[第13回は、前回のチームカルチャー回の続編。時事ネタ（H-1Bビザの話題／ハワイ行き航空券の価格差の謎談義）をきっかけに、「Deliver Through Others（他者を通じて成果を出す）」が、LLM活用でどう変わるのかを本音で議論。
+
+
+コードレビューと共通言語づくり、オーナーシップの効用と副作用
+
+
+「怠惰・短気・傲慢」という古典的“エンジニア三大美徳”を、現代の開発運用とテスト文化に照らして再解釈
+
+
+仕様の“What/Doneの基準”は固めつつ、Howは任せる任せ方の設計
+
+
+生成AIに仕事を振るときの課題：コンテキスト投入コスト、品質基準、テストでの担保
+
+
+最後は「Deliver Through AI」というキーワードで締め。人とAIに“どう任せるか”が、個人のインパクトとチームの伸びしろを左右する――そんな回です。]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2218</itunes:duration>
+                <itunes:episode>13</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>[EP12] チームカルチャーとエンジニアの共通言語：スピードか品質か、AI時代の開発現場から</title>
+        <itunes:title>[EP12] チームカルチャーとエンジニアの共通言語：スピードか品質か、AI時代の開発現場から</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/%e3%83%81%e3%83%bc%e3%83%a0%e3%82%ab%e3%83%ab%e3%83%81%e3%83%a3%e3%83%bc%e3%81%a8%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%81%ae/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/%e3%83%81%e3%83%bc%e3%83%a0%e3%82%ab%e3%83%ab%e3%83%81%e3%83%a3%e3%83%bc%e3%81%a8%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%81%ae/#comments</comments>        <pubDate>Sat, 04 Oct 2025 22:23:17 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/6f53b56a-1461-3c63-8ac7-85faf848a19d</guid>
+                                    <description><![CDATA[<p>シアトル郊外で働く日本人エンジニアのコモダさんとイワイさんが、アメリカの開発チーム文化についてゆるく語ります。
+大谷選手の話題から始まり、エンジニア組織における「スピード vs 品質」「オーナーシップ」「コードレビュー文化」「世代間ギャップ」「AI生成コードへの向き合い方」など、現場で感じるリアルなトピックを展開。
+TypeScriptとJavaの設計思想の違い、チーム間や職種間でのカルチャーの違い、若手エンジニア育成や“Deliver Through Others（他者を通じて成果を出す）”の考え方にも触れています。
+最後には、「チーム文化はコードに現れる」という気づきとともに、次回テーマ「Deliver Through Others」への布石も。</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>シアトル郊外で働く日本人エンジニアのコモダさんとイワイさんが、アメリカの開発チーム文化についてゆるく語ります。<br>
+大谷選手の話題から始まり、エンジニア組織における「スピード vs 品質」「オーナーシップ」「コードレビュー文化」「世代間ギャップ」「AI生成コードへの向き合い方」など、現場で感じるリアルなトピックを展開。<br>
+TypeScriptとJavaの設計思想の違い、チーム間や職種間でのカルチャーの違い、若手エンジニア育成や“Deliver Through Others（他者を通じて成果を出す）”の考え方にも触れています。<br>
+最後には、「チーム文化はコードに現れる」という気づきとともに、次回テーマ「Deliver Through Others」への布石も。</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/c94absficsbzg8ma/ep12_normalized.mp3" length="79777317" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[シアトル郊外で働く日本人エンジニアのコモダさんとイワイさんが、アメリカの開発チーム文化についてゆるく語ります。大谷選手の話題から始まり、エンジニア組織における「スピード vs 品質」「オーナーシップ」「コードレビュー文化」「世代間ギャップ」「AI生成コードへの向き合い方」など、現場で感じるリアルなトピックを展開。TypeScriptとJavaの設計思想の違い、チーム間や職種間でのカルチャーの違い、若手エンジニア育成や“Deliver Through Others（他者を通じて成果を出す）”の考え方にも触れています。最後には、「チーム文化はコードに現れる」という気づきとともに、次回テーマ「Deliver Through Others」への布石も。]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1994</itunes:duration>
+                <itunes:episode>12</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/3nv2d366yvdw6nwi/ep12.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP11] How People Are Using ChatGPT - チャートだけで納得する回</title>
+        <itunes:title>[EP11] How People Are Using ChatGPT - チャートだけで納得する回</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep11-how-people-are-using-chatgpt-%e3%83%81%e3%83%a3%e3%83%bc%e3%83%88%e3%81%a0%e3%81%91%e3%81%a7%e7%b4%8d%e5%be%97%e3%81%99%e3%82%8b%e5%9b%9e/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep11-how-people-are-using-chatgpt-%e3%83%81%e3%83%a3%e3%83%bc%e3%83%88%e3%81%a0%e3%81%91%e3%81%a7%e7%b4%8d%e5%be%97%e3%81%99%e3%82%8b%e5%9b%9e/#comments</comments>        <pubDate>Sat, 27 Sep 2025 16:52:53 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/b76bbe71-3aca-3b51-aa78-c15af46d4446</guid>
+                                    <description><![CDATA[<p>シアトル郊外在住の日本人エンジニア、コモダ＆イワイが、OpenAI×NBERの使用動向レポート「How People Are Using ChatGPT」を“グラフ読み”で深掘り。2024→2025で非ワーク利用が主流に、最大カテゴリは実用アドバイス／ティーチング。一方でテクニカルヘルプは比率こそ低下も絶対数は増。2024年末〜25年初の新規ユーザーが牽引し、春先にマルチメディア利用が一時的に急伸した背景も考察します。年齢・性差・地域（先進国高利用／新興国の伸び）など属性トレンド、IDE起動待ちを減らすCLI変換・検証ワークフローなど現場Tipsも。</p>
+<p>Paper URL: <a href='https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf'>https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf</a></p>
+<p> </p>
+<p> </p>
+<p>ちなみにMLBのポストシーズンの説明に多少間違いが含まれていました。ご注意ください。</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>シアトル郊外在住の日本人エンジニア、コモダ＆イワイが、OpenAI×NBERの使用動向レポート「How People Are Using ChatGPT」を“グラフ読み”で深掘り。2024→2025で非ワーク利用が主流に、最大カテゴリは実用アドバイス／ティーチング。一方でテクニカルヘルプは比率こそ低下も絶対数は増。2024年末〜25年初の新規ユーザーが牽引し、春先にマルチメディア利用が一時的に急伸した背景も考察します。年齢・性差・地域（先進国高利用／新興国の伸び）など属性トレンド、IDE起動待ちを減らすCLI変換・検証ワークフローなど現場Tipsも。</p>
+<p>Paper URL: <a href='https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf'>https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf</a></p>
+<p> </p>
+<p> </p>
+<p>ちなみにMLBのポストシーズンの説明に多少間違いが含まれていました。ご注意ください。</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/yj6ma2zn665bxvx6/ep11_normalized.mp3" length="91427929" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[シアトル郊外在住の日本人エンジニア、コモダ＆イワイが、OpenAI×NBERの使用動向レポート「How People Are Using ChatGPT」を“グラフ読み”で深掘り。2024→2025で非ワーク利用が主流に、最大カテゴリは実用アドバイス／ティーチング。一方でテクニカルヘルプは比率こそ低下も絶対数は増。2024年末〜25年初の新規ユーザーが牽引し、春先にマルチメディア利用が一時的に急伸した背景も考察します。年齢・性差・地域（先進国高利用／新興国の伸び）など属性トレンド、IDE起動待ちを減らすCLI変換・検証ワークフローなど現場Tipsも。
+Paper URL: https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf
+ 
+ 
+ちなみにMLBのポストシーズンの説明に多少間違いが含まれていました。ご注意ください。]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2285</itunes:duration>
+                <itunes:episode>11</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/m8by7vgindp6the7/ep11.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP10] $16バーガーの葛藤と量り売り寿司の真実〜シアトル食生活ゆるトーク</title>
+        <itunes:title>[EP10] $16バーガーの葛藤と量り売り寿司の真実〜シアトル食生活ゆるトーク</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep1016%e3%83%90%e3%83%bc%e3%82%ac%e3%83%bc%e3%81%ae%e8%91%9b%e8%97%a4%e3%81%a8%e9%87%8f%e3%82%8a%e5%a3%b2%e3%82%8a%e5%af%bf%e5%8f%b8%e3%81%ae/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep1016%e3%83%90%e3%83%bc%e3%82%ac%e3%83%bc%e3%81%ae%e8%91%9b%e8%97%a4%e3%81%a8%e9%87%8f%e3%82%8a%e5%a3%b2%e3%82%8a%e5%af%bf%e5%8f%b8%e3%81%ae/#comments</comments>        <pubDate>Sat, 20 Sep 2025 16:00:00 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/e7ad9eb0-5a43-32fc-8ec2-7810e565c664</guid>
+                                    <description><![CDATA[<p>シアトル郊外在住の日本人エンジニア、コモダ＆イワイのゆる回。レイバーデー明けの新学年スタートや写真なしの学校ランチ事情から、バーガーの価格と満足度のジレンマ、BBQの“セルフ組み立てバーガー”、オフィスのケータリングとベジ対応まで、食を軸にアメリカ生活のリアルを語ります。
+さらに、シアトル界隈の寿司スポット談義（I Love Sushi／Japonessa／Ginza ほか）、量り売り寿司の“シャリ多め”問題、サンドイッチにポテチが付く文化、炭水化物×炭水化物の是非、歳かアメリカか—体重増の犯人探し、本音と建前＆見た目バイアスの話、そして“おでこを出すと絡まれない”都市伝説まで。
+最後は「これは食っとけ」で締め。おすすめは聞いてみてのお楽しみ。肩の力を抜いて聞き流せる雑談回です。</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>シアトル郊外在住の日本人エンジニア、コモダ＆イワイのゆる回。レイバーデー明けの新学年スタートや写真なしの学校ランチ事情から、バーガーの価格と満足度のジレンマ、BBQの“セルフ組み立てバーガー”、オフィスのケータリングとベジ対応まで、食を軸にアメリカ生活のリアルを語ります。<br>
+さらに、シアトル界隈の寿司スポット談義（I Love Sushi／Japonessa／Ginza ほか）、量り売り寿司の“シャリ多め”問題、サンドイッチにポテチが付く文化、炭水化物×炭水化物の是非、歳かアメリカか—体重増の犯人探し、本音と建前＆見た目バイアスの話、そして“おでこを出すと絡まれない”都市伝説まで。<br>
+最後は「これは食っとけ」で締め。おすすめは聞いてみてのお楽しみ。肩の力を抜いて聞き流せる雑談回です。</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/uknsic2cyc25itmq/ep10_normalized.mp3" length="78351031" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[シアトル郊外在住の日本人エンジニア、コモダ＆イワイのゆる回。レイバーデー明けの新学年スタートや写真なしの学校ランチ事情から、バーガーの価格と満足度のジレンマ、BBQの“セルフ組み立てバーガー”、オフィスのケータリングとベジ対応まで、食を軸にアメリカ生活のリアルを語ります。さらに、シアトル界隈の寿司スポット談義（I Love Sushi／Japonessa／Ginza ほか）、量り売り寿司の“シャリ多め”問題、サンドイッチにポテチが付く文化、炭水化物×炭水化物の是非、歳かアメリカか—体重増の犯人探し、本音と建前＆見た目バイアスの話、そして“おでこを出すと絡まれない”都市伝説まで。最後は「これは食っとけ」で締め。おすすめは聞いてみてのお楽しみ。肩の力を抜いて聞き流せる雑談回です。]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1958</itunes:duration>
+                <itunes:episode>10</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/erz9mzvd9dhs7a5k/ep10.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP9] AIツールをどう使ってる？――現場エンジニアの実例とホンネ</title>
+        <itunes:title>[EP9] AIツールをどう使ってる？――現場エンジニアの実例とホンネ</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep9ai%e3%80%81%e7%8f%be%e5%a0%b4%e3%81%a7%e3%81%af%e3%81%93%e3%81%86%e4%bd%bf%e3%81%a3%e3%81%a6%e3%82%8b%ef%bc%9a/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep9ai%e3%80%81%e7%8f%be%e5%a0%b4%e3%81%a7%e3%81%af%e3%81%93%e3%81%86%e4%bd%bf%e3%81%a3%e3%81%a6%e3%82%8b%ef%bc%9a/#comments</comments>        <pubDate>Sat, 13 Sep 2025 16:00:00 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/a630c9cd-b898-3a47-aee6-ae502757104c</guid>
+                                    <description><![CDATA[<p>アメリカ・シアトル郊外で働く日本人エンジニアのコモダ、イワイ、モリタ、クロダの4人が、いま実際にAIツールをどう使っているかをゆるく語ります。
+一次スクリプトの生成、デバッグの付き合い方、会議サマリーの活用、長いPDFの扱い方、そして「人が最後は確認するよね」という現場感まで、日々の小ワザや失敗談を交えながら紹介。
+「コードは書くより読む時間が長い問題」や、リファクタのコツ、コンテキストの持たせ方など、明日から試せるヒントがほどよく詰まっています。テック好きはもちろん、AIを仕事に取り入れてみたい方にも聴きやすい一回です。</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>アメリカ・シアトル郊外で働く日本人エンジニアのコモダ、イワイ、モリタ、クロダの4人が、いま実際にAIツールをどう使っているかをゆるく語ります。<br>
+一次スクリプトの生成、デバッグの付き合い方、会議サマリーの活用、長いPDFの扱い方、そして「人が最後は確認するよね」という現場感まで、日々の小ワザや失敗談を交えながら紹介。<br>
+「コードは書くより読む時間が長い問題」や、リファクタのコツ、コンテキストの持たせ方など、明日から試せるヒントがほどよく詰まっています。テック好きはもちろん、AIを仕事に取り入れてみたい方にも聴きやすい一回です。</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/r7jyf2h8u72eeqra/ep9.mp3" length="82868125" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[アメリカ・シアトル郊外で働く日本人エンジニアのコモダ、イワイ、モリタ、クロダの4人が、いま実際にAIツールをどう使っているかをゆるく語ります。一次スクリプトの生成、デバッグの付き合い方、会議サマリーの活用、長いPDFの扱い方、そして「人が最後は確認するよね」という現場感まで、日々の小ワザや失敗談を交えながら紹介。「コードは書くより読む時間が長い問題」や、リファクタのコツ、コンテキストの持たせ方など、明日から試せるヒントがほどよく詰まっています。テック好きはもちろん、AIを仕事に取り入れてみたい方にも聴きやすい一回です。]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2071</itunes:duration>
+                <itunes:episode>9</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/rh68z4i9fn5y2r6e/ep9.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP8] SEの仕事はAIでどう変わる？――ビジョンと現実</title>
+        <itunes:title>[EP8] SEの仕事はAIでどう変わる？――ビジョンと現実</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep8se%e3%81%ae%e4%bb%95%e4%ba%8b%e3%81%afai%e3%81%a7%e3%81%a9%e3%81%86%e5%a4%89%e3%82%8f%e3%82%8b%ef%bc%9f%e2%80%95%e2%80%95%e3%83%93%e3%82%b8/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep8se%e3%81%ae%e4%bb%95%e4%ba%8b%e3%81%afai%e3%81%a7%e3%81%a9%e3%81%86%e5%a4%89%e3%82%8f%e3%82%8b%ef%bc%9f%e2%80%95%e2%80%95%e3%83%93%e3%82%b8/#comments</comments>        <pubDate>Sat, 06 Sep 2025 16:00:00 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/52191bb5-af49-3227-a5d6-fd95c8351ced</guid>
+                                    <description><![CDATA[<p>シアトル在住の日本人エンジニア、コモダ＆イワイが、ゲストの森田さん・黒田さんと「AIはSE/ソフトウェアエンジニアの仕事をどう変えるのか」を徹底トーク。LLM時代の要件定義、マルチエージェント、組織設計（コンウェイの法則）、ノーコードの教訓、そして“コーディング力は要るのか？”まで。高校生や情報系の学生にも刺さる、未来の働き方のリアル。</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>シアトル在住の日本人エンジニア、コモダ＆イワイが、ゲストの森田さん・黒田さんと「AIはSE/ソフトウェアエンジニアの仕事をどう変えるのか」を徹底トーク。LLM時代の要件定義、マルチエージェント、組織設計（コンウェイの法則）、ノーコードの教訓、そして“コーディング力は要るのか？”まで。高校生や情報系の学生にも刺さる、未来の働き方のリアル。</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/8ydaumjqzpyqqrsv/ep8.mp3" length="85543064" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[シアトル在住の日本人エンジニア、コモダ＆イワイが、ゲストの森田さん・黒田さんと「AIはSE/ソフトウェアエンジニアの仕事をどう変えるのか」を徹底トーク。LLM時代の要件定義、マルチエージェント、組織設計（コンウェイの法則）、ノーコードの教訓、そして“コーディング力は要るのか？”まで。高校生や情報系の学生にも刺さる、未来の働き方のリアル。]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2138</itunes:duration>
+                <itunes:episode>8</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/ez4nipa78xicnzpu/ep8.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP7] 大企業のソフトウェア開発のリアル：テスト文化・設計・そしてAI時代の"きれいなコード"</title>
+        <itunes:title>[EP7] 大企業のソフトウェア開発のリアル：テスト文化・設計・そしてAI時代の"きれいなコード"</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/ep7%e5%a4%a7%e4%bc%81%e6%a5%ad%e3%81%ae%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e9%96%8b%e7%99%ba%e3%81%ae%e3%83%aa/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/ep7%e5%a4%a7%e4%bc%81%e6%a5%ad%e3%81%ae%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e9%96%8b%e7%99%ba%e3%81%ae%e3%83%aa/#comments</comments>        <pubDate>Sat, 30 Aug 2025 21:35:36 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/d7a596a9-5c47-3271-84a0-ebe421e9f7ff</guid>
+                                    <description><![CDATA[<p>シアトル郊外で働く日本人エンジニア2人が、実務でのテスト駆動開発（TDD）、ユニット/インテグレーション/E2Eテストの勘所、DIやクラス設計のつまずき、社内連携の面白さと難しさ、そしてAI時代に揺れる「きれいなコード」の基準までをゆるく本音で語ります。大企業でもスタートアップでも役立つ、等身大の開発トーク第7回。</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>シアトル郊外で働く日本人エンジニア2人が、実務でのテスト駆動開発（TDD）、ユニット/インテグレーション/E2Eテストの勘所、DIやクラス設計のつまずき、社内連携の面白さと難しさ、そしてAI時代に揺れる「きれいなコード」の基準までをゆるく本音で語ります。大企業でもスタートアップでも役立つ、等身大の開発トーク第7回。</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/33e8ut2cittpfjq2/ep7_-_8_30_25_528_PMbem4m.mp3" length="60400036" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[シアトル郊外で働く日本人エンジニア2人が、実務でのテスト駆動開発（TDD）、ユニット/インテグレーション/E2Eテストの勘所、DIやクラス設計のつまずき、社内連携の面白さと難しさ、そしてAI時代に揺れる「きれいなコード」の基準までをゆるく本音で語ります。大企業でもスタートアップでも役立つ、等身大の開発トーク第7回。]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1887</itunes:duration>
+                <itunes:episode>7</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/btgprrxz8nsvs5yg/ep7.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP6] パンプキン畑と戦闘機とイルミネーション〜移住者の季節感</title>
+        <itunes:title>[EP6] パンプキン畑と戦闘機とイルミネーション〜移住者の季節感</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/%e3%83%91%e3%83%b3%e3%83%97%e3%82%ad%e3%83%b3%e7%95%91%e3%81%a8%e6%88%a6%e9%97%98%e6%a9%9f%e3%81%a8%e3%82%a4%e3%83%ab%e3%83%9f%e3%83%8d/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/%e3%83%91%e3%83%b3%e3%83%97%e3%82%ad%e3%83%b3%e7%95%91%e3%81%a8%e6%88%a6%e9%97%98%e6%a9%9f%e3%81%a8%e3%82%a4%e3%83%ab%e3%83%9f%e3%83%8d/#comments</comments>        <pubDate>Sat, 23 Aug 2025 16:00:00 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/48a0575a-a561-3131-99d6-5ecd492c9b93</guid>
+                                    <description><![CDATA[<p>アメリカ・シアトル郊外に住む日本人エンジニアのコモダさん、イワイさん、クロダさん、モリタさんが、前回に引き続き「アメリカの休日」について語る第6回。今回はDIY以外の過ごし方を中心に、夏の湖遊びやBBQ、秋のパンプキンパッチやコーン畑の迷路、冬のスキーやドライブスルー・イルミネーションまで、四季折々のレジャー事情を紹介します。</p>
+<p>さらに、戦闘機が街の上空を飛ぶエアショー、巨大スタジアムでのライブ体験、NFLやMLBのスポーツ観戦など、スケール感あふれるアメリカならではの娯楽についても盛り上がりながらトーク。日米の休暇文化や、移住者が感じる「休み方の違い」など、リアルな気づきが詰まった一回です！</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>アメリカ・シアトル郊外に住む日本人エンジニアのコモダさん、イワイさん、クロダさん、モリタさんが、前回に引き続き「アメリカの休日」について語る第6回。今回はDIY以外の過ごし方を中心に、夏の湖遊びやBBQ、秋のパンプキンパッチやコーン畑の迷路、冬のスキーやドライブスルー・イルミネーションまで、四季折々のレジャー事情を紹介します。</p>
+<p>さらに、戦闘機が街の上空を飛ぶエアショー、巨大スタジアムでのライブ体験、NFLやMLBのスポーツ観戦など、スケール感あふれるアメリカならではの娯楽についても盛り上がりながらトーク。日米の休暇文化や、移住者が感じる「休み方の違い」など、リアルな気づきが詰まった一回です！</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/i9492532bbi5ckug/ep6.mp3" length="78766901" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[アメリカ・シアトル郊外に住む日本人エンジニアのコモダさん、イワイさん、クロダさん、モリタさんが、前回に引き続き「アメリカの休日」について語る第6回。今回はDIY以外の過ごし方を中心に、夏の湖遊びやBBQ、秋のパンプキンパッチやコーン畑の迷路、冬のスキーやドライブスルー・イルミネーションまで、四季折々のレジャー事情を紹介します。
+さらに、戦闘機が街の上空を飛ぶエアショー、巨大スタジアムでのライブ体験、NFLやMLBのスポーツ観戦など、スケール感あふれるアメリカならではの娯楽についても盛り上がりながらトーク。日米の休暇文化や、移住者が感じる「休み方の違い」など、リアルな気づきが詰まった一回です！]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1969</itunes:duration>
+                <itunes:episode>6</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/5h9b47ac8rgj45wh/ep6.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP5] 休日は修理と収穫！？〜郊外暮らしのリアルライフ</title>
+        <itunes:title>[EP5] 休日は修理と収穫！？〜郊外暮らしのリアルライフ</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/%e4%bc%91%e6%97%a5%e3%81%af%e4%bf%ae%e7%90%86%e3%81%a8%e5%8f%8e%e7%a9%ab%ef%bc%81%ef%bc%9f%e3%80%9c%e9%83%8a%e5%a4%96%e6%9a%ae%e3%82%89/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/%e4%bc%91%e6%97%a5%e3%81%af%e4%bf%ae%e7%90%86%e3%81%a8%e5%8f%8e%e7%a9%ab%ef%bc%81%ef%bc%9f%e3%80%9c%e9%83%8a%e5%a4%96%e6%9a%ae%e3%82%89/#comments</comments>        <pubDate>Sat, 16 Aug 2025 16:00:00 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/28691790-d27b-3bed-a8b8-c2a9f899b445</guid>
+                                    <description><![CDATA[<p>第5回のエピソードでは、ホストのコモダさん、イワイさんがゲストのクロダさん、モリタさんと共に、アメリカ・シアトル郊外での暮らしや趣味について語ります。休日の過ごし方として人気の釣りや貝拾い、ブルーベリー狩り、そして自宅の修理やDIYについて、実体験に基づくリアルなトークが展開されます。アメリカと日本の住宅事情や賃貸のトラブル、ホームデポでの買い物術など、移住者ならではの視点が満載の内容です。</p>
+<p>Music by SUNO.</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>第5回のエピソードでは、ホストのコモダさん、イワイさんがゲストのクロダさん、モリタさんと共に、アメリカ・シアトル郊外での暮らしや趣味について語ります。休日の過ごし方として人気の釣りや貝拾い、ブルーベリー狩り、そして自宅の修理やDIYについて、実体験に基づくリアルなトークが展開されます。アメリカと日本の住宅事情や賃貸のトラブル、ホームデポでの買い物術など、移住者ならではの視点が満載の内容です。</p>
+<p>Music by SUNO.</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/6q6h68sxbki7cpwi/ep5.mp3" length="80015554" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[第5回のエピソードでは、ホストのコモダさん、イワイさんがゲストのクロダさん、モリタさんと共に、アメリカ・シアトル郊外での暮らしや趣味について語ります。休日の過ごし方として人気の釣りや貝拾い、ブルーベリー狩り、そして自宅の修理やDIYについて、実体験に基づくリアルなトークが展開されます。アメリカと日本の住宅事情や賃貸のトラブル、ホームデポでの買い物術など、移住者ならではの視点が満載の内容です。
+Music by SUNO.]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2000</itunes:duration>
+                <itunes:episode>5</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/rh5eewt6csfvcb3v/ep5.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP4] 知らぬ間に“アメリカ慣れ”!? シアトル暮らしのゆるトーク〜小さな事件が教えてくれる異文化あるある</title>
+        <itunes:title>[EP4] 知らぬ間に“アメリカ慣れ”!? シアトル暮らしのゆるトーク〜小さな事件が教えてくれる異文化あるある</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e7%94%9f%e6%b4%bb%e3%81%82%e3%82%8b%e3%81%82%e3%82%8b%e3%81%a8%e6%97%a5%e7%b1%b3%e3%82%a8%e3%83%b3/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e7%94%9f%e6%b4%bb%e3%81%82%e3%82%8b%e3%81%82%e3%82%8b%e3%81%a8%e6%97%a5%e7%b1%b3%e3%82%a8%e3%83%b3/#comments</comments>        <pubDate>Sat, 09 Aug 2025 16:00:00 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/aceace5b-afdc-37d4-9f79-b91d5d19ad58</guid>
+                                    <description><![CDATA[<p>第4回目のエピソードでは、シアトル在住の日本人エンジニア・黒田さんと森田さんをゲストに迎え、アメリカでの生活で遭遇したリアルなエピソードや、日本とアメリカの企業文化・エンジニアリングスタイルの違いについて語ります。駐車場ゲートのトラブル、電子レンジを持参する業者さん、ネクサスやビザ面接の裏技、さらには中国系コミュニティの情報共有の強さまで、盛りだくさんのトピックをユーモアたっぷりに紹介。エンジニアの働き方や、海外生活における知恵が満載の回です！</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>第4回目のエピソードでは、シアトル在住の日本人エンジニア・黒田さんと森田さんをゲストに迎え、アメリカでの生活で遭遇したリアルなエピソードや、日本とアメリカの企業文化・エンジニアリングスタイルの違いについて語ります。駐車場ゲートのトラブル、電子レンジを持参する業者さん、ネクサスやビザ面接の裏技、さらには中国系コミュニティの情報共有の強さまで、盛りだくさんのトピックをユーモアたっぷりに紹介。エンジニアの働き方や、海外生活における知恵が満載の回です！</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/8rwd9ej66e432uz5/ep4_edited.mp3" length="55745643" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[第4回目のエピソードでは、シアトル在住の日本人エンジニア・黒田さんと森田さんをゲストに迎え、アメリカでの生活で遭遇したリアルなエピソードや、日本とアメリカの企業文化・エンジニアリングスタイルの違いについて語ります。駐車場ゲートのトラブル、電子レンジを持参する業者さん、ネクサスやビザ面接の裏技、さらには中国系コミュニティの情報共有の強さまで、盛りだくさんのトピックをユーモアたっぷりに紹介。エンジニアの働き方や、海外生活における知恵が満載の回です！]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1741</itunes:duration>
+                <itunes:episode>4</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/ymtyn67hdfrwch7i/ep4.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP3] アメリカ生活の洗礼〜車購入からSSNまで “適当さ”に戸惑った話</title>
+        <itunes:title>[EP3] アメリカ生活の洗礼〜車購入からSSNまで “適当さ”に戸惑った話</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e7%94%9f%e6%b4%bb%e3%81%ae%e6%b4%97%e7%a4%bc%e8%bb%8a%e8%b3%bc%e5%85%a5%e3%81%8b%e3%82%89ssn/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e7%94%9f%e6%b4%bb%e3%81%ae%e6%b4%97%e7%a4%bc%e8%bb%8a%e8%b3%bc%e5%85%a5%e3%81%8b%e3%82%89ssn/#comments</comments>        <pubDate>Sun, 03 Aug 2025 13:44:18 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/283c986d-eac6-337d-9827-e7c3c0acdbf6</guid>
+                                    <description><![CDATA[<p>アメリカ・シアトル近郊で生活する日本人エンジニアのコモダさんとイワイさんが、移住後のカルチャーショックや日常の「あるある」をゆるく語るポッドキャスト第3回。今回は、車の購入体験やSSN（社会保障番号）の取得、Amazonやコストコの返品文化など、日本とアメリカの驚きの違いについて、リアルで笑えるエピソードが満載。シアトルでの新生活に興味がある人、アメリカのラフな社会の一面を知りたい人にぴったりの回です。</p>
+<p> </p>
+<p>Music by SUNO.</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>アメリカ・シアトル近郊で生活する日本人エンジニアのコモダさんとイワイさんが、移住後のカルチャーショックや日常の「あるある」をゆるく語るポッドキャスト第3回。今回は、車の購入体験やSSN（社会保障番号）の取得、Amazonやコストコの返品文化など、日本とアメリカの驚きの違いについて、リアルで笑えるエピソードが満載。シアトルでの新生活に興味がある人、アメリカのラフな社会の一面を知りたい人にぴったりの回です。</p>
+<p> </p>
+<p>Music by SUNO.</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/geyinqppuhtacfgc/ep3.mp3" length="78886019" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[アメリカ・シアトル近郊で生活する日本人エンジニアのコモダさんとイワイさんが、移住後のカルチャーショックや日常の「あるある」をゆるく語るポッドキャスト第3回。今回は、車の購入体験やSSN（社会保障番号）の取得、Amazonやコストコの返品文化など、日本とアメリカの驚きの違いについて、リアルで笑えるエピソードが満載。シアトルでの新生活に興味がある人、アメリカのラフな社会の一面を知りたい人にぴったりの回です。
+ 
+Music by SUNO.]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1972</itunes:duration>
+                <itunes:episode>3</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/bsk8hkj89atuyg4t/ep3.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP2] グッドインテンションじゃ防げない！ 〜日米オフィス文化の違い、語ります〜</title>
+        <itunes:title>[EP2] グッドインテンションじゃ防げない！ 〜日米オフィス文化の違い、語ります〜</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/%e3%82%b0%e3%83%83%e3%83%89%e3%82%a4%e3%83%b3%e3%83%86%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%98%e3%82%83%e9%98%b2%e3%81%92%e3%81%aa/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/%e3%82%b0%e3%83%83%e3%83%89%e3%82%a4%e3%83%b3%e3%83%86%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%98%e3%82%83%e9%98%b2%e3%81%92%e3%81%aa/#comments</comments>        <pubDate>Sat, 26 Jul 2025 22:10:56 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/1d143ddd-7b37-3c25-80f1-d24240826f28</guid>
+                                    <description><![CDATA[<p>アメリカ・シアトル郊外で働く日本人エンジニアのコモダさんとイワイさんが、外資系IT企業での日常や働き方、オフィス事情、文化の違いについてゆるく語るトーク番組の第2回。今回のテーマは「オフィスの違い」。日米オフィスのレイアウト、リモートワーク、昇降式デスクやコーヒー事情、カフェテリア、食生活の違いをはじめ、チームの多様性、英語力の壁、アメリカ企業の合理主義やメカニズム文化など、リアルな職場の体験が満載。外国人としてアメリカ企業で働く中での気づきや悩みも率直に共有され、テック業界での国際的な働き方に興味のある方におすすめのエピソードです。</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>アメリカ・シアトル郊外で働く日本人エンジニアのコモダさんとイワイさんが、外資系IT企業での日常や働き方、オフィス事情、文化の違いについてゆるく語るトーク番組の第2回。今回のテーマは「オフィスの違い」。日米オフィスのレイアウト、リモートワーク、昇降式デスクやコーヒー事情、カフェテリア、食生活の違いをはじめ、チームの多様性、英語力の壁、アメリカ企業の合理主義やメカニズム文化など、リアルな職場の体験が満載。外国人としてアメリカ企業で働く中での気づきや悩みも率直に共有され、テック業界での国際的な働き方に興味のある方におすすめのエピソードです。</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/fzmaiixqwsifjamp/ep2.mp3" length="80479488" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[アメリカ・シアトル郊外で働く日本人エンジニアのコモダさんとイワイさんが、外資系IT企業での日常や働き方、オフィス事情、文化の違いについてゆるく語るトーク番組の第2回。今回のテーマは「オフィスの違い」。日米オフィスのレイアウト、リモートワーク、昇降式デスクやコーヒー事情、カフェテリア、食生活の違いをはじめ、チームの多様性、英語力の壁、アメリカ企業の合理主義やメカニズム文化など、リアルな職場の体験が満載。外国人としてアメリカ企業で働く中での気づきや悩みも率直に共有され、テック業界での国際的な働き方に興味のある方におすすめのエピソードです。]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2011</itunes:duration>
+                <itunes:episode>2</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/3gd7i9tbthhwbnkw/ep2.vtt" type="text/vtt" />    </item>
+    <item>
+        <title>[EP1] マイクロソフト本社のある都市より</title>
+        <itunes:title>[EP1] マイクロソフト本社のある都市より</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/%e3%83%9e%e3%82%a4%e3%82%af%e3%83%ad%e3%82%bd%e3%83%95%e3%83%88%e6%9c%ac%e7%a4%be%e3%81%ae%e3%81%82%e3%82%8b%e9%83%bd%e5%b8%82%e3%82%88%e3%82%8a/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/%e3%83%9e%e3%82%a4%e3%82%af%e3%83%ad%e3%82%bd%e3%83%95%e3%83%88%e6%9c%ac%e7%a4%be%e3%81%ae%e3%81%82%e3%82%8b%e9%83%bd%e5%b8%82%e3%82%88%e3%82%8a/#comments</comments>        <pubDate>Sun, 20 Jul 2025 00:51:27 -0300</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/ec40fc8a-9953-3ada-9e60-cdda22b07813</guid>
+                                    <description><![CDATA[<p>アメリカ・シアトル郊外に住む日本人エンジニア、イワイとコモダが、日常や文化の違いをゆるく語るポッドキャストの第一回。今回は、ふたりが住んでいるレドモンドという街の特徴から、アメリカと日本の住宅事情、クルマ社会、テスラ事情、ゴミ出しのルール、教育水準、住民の人種構成、そしてシアトルの「ハイテクな田舎」としての独特な魅力まで、幅広く語り合います。アメリカ生活を3年経験したからこそ感じるリアルなギャップや驚きが満載。これからシアトルやアメリカに興味がある方、在住者の方にも共感必至のエピソードです！</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>アメリカ・シアトル郊外に住む日本人エンジニア、イワイとコモダが、日常や文化の違いをゆるく語るポッドキャストの第一回。今回は、ふたりが住んでいるレドモンドという街の特徴から、アメリカと日本の住宅事情、クルマ社会、テスラ事情、ゴミ出しのルール、教育水準、住民の人種構成、そしてシアトルの「ハイテクな田舎」としての独特な魅力まで、幅広く語り合います。アメリカ生活を3年経験したからこそ感じるリアルなギャップや驚きが満載。これからシアトルやアメリカに興味がある方、在住者の方にも共感必至のエピソードです！</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/pntzgx5bdfk9vmyy/ep1.mp3" length="62122721" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[アメリカ・シアトル郊外に住む日本人エンジニア、イワイとコモダが、日常や文化の違いをゆるく語るポッドキャストの第一回。今回は、ふたりが住んでいるレドモンドという街の特徴から、アメリカと日本の住宅事情、クルマ社会、テスラ事情、ゴミ出しのルール、教育水準、住民の人種構成、そしてシアトルの「ハイテクな田舎」としての独特な魅力まで、幅広く語り合います。アメリカ生活を3年経験したからこそ感じるリアルなギャップや驚きが満載。これからシアトルやアメリカに興味がある方、在住者の方にも共感必至のエピソードです！]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1553</itunes:duration>
+                <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/tv2yteeavqd6ei2x/episode1.vtt" type="text/vtt" />    </item>
+</channel>
+</rss>
