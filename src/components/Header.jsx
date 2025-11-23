@@ -1,20 +1,20 @@
 import React from 'react';
 
-const Header = () => {
-    return (
-        <header className="header">
-            <div className="container header-content">
-                <div className="logo">
-                    <span className="logo-icon">🎙️</span>
-                    <span className="logo-text">TechTalks</span>
-                </div>
-                <nav className="nav">
-                    <a href="#episodes">Episodes</a>
-                    <a href="#feedback">Feedback</a>
-                    <a href="#about">About</a>
-                </nav>
-            </div>
-            <style>{`
+const Header = ({ title }) => {
+  return (
+    <header className="header">
+      <div className="container header-content">
+        <div className="logo">
+          <span className="logo-icon">🎙️</span>
+          <span className="logo-text">{title || 'TechTalks'}</span>
+        </div>
+        <nav className="nav">
+          <a href="#episodes">Episodes</a>
+          <a href="#feedback">Feedback</a>
+          <a href="#about">About</a>
+        </nav>
+      </div>
+      <style>{`
         .header {
           background-color: rgba(15, 15, 19, 0.9);
           backdrop-filter: blur(10px);
@@ -52,8 +52,8 @@ const Header = () => {
           color: var(--accent-color);
         }
       `}</style>
-        </header>
-    );
+    </header>
+  );
 };
 
 export default Header;

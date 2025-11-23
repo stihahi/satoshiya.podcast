@@ -11,6 +11,8 @@ export const fetchEpisodes = async () => {
         const parser = new DOMParser();
         const xml = parser.parseFromString(text, "text/xml");
 
+        const channelTitle = xml.querySelector("channel > title")?.textContent || "Podcast";
+
         const items = xml.querySelectorAll("item");
         const episodes = Array.from(items).map((item, index) => {
             const title = item.querySelector("title")?.textContent || "No Title";
@@ -42,7 +44,7 @@ export const fetchEpisodes = async () => {
             };
         });
 
-        return episodes;
+        return { title: channelTitle, episodes };
     } catch (error) {
         console.error("Error fetching episodes:", error);
         throw error;

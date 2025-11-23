@@ -1,22 +1,22 @@
 import React from 'react';
 
-const Hero = () => {
-    return (
-        <section className="hero">
-            <div className="container hero-content">
-                <h1 className="hero-title">
-                    Explore the <span className="highlight">Future</span> of Technology
-                </h1>
-                <p className="hero-subtitle">
-                    Join us as we unravel the mysteries of AI, Web3, and the digital revolution.
-                    New episodes every week.
-                </p>
-                <div className="hero-actions">
-                    <a href="#episodes" className="btn btn-primary">Listen Now</a>
-                    <a href="#feedback" className="btn btn-secondary">Get Involved</a>
-                </div>
-            </div>
-            <style>{`
+const Hero = ({ title }) => {
+  return (
+    <section className="hero">
+      <div className="container hero-content">
+        <h1 className="hero-title">
+          {title || 'Explore the Future of Technology'}
+        </h1>
+        <p className="hero-subtitle">
+          Join us as we unravel the mysteries of AI, Web3, and the digital revolution.
+          New episodes every week.
+        </p>
+        <div className="hero-actions">
+          <a href="#episodes" className="btn btn-primary">Listen Now</a>
+          <a href="#feedback" className="btn btn-secondary">Get Involved</a>
+        </div>
+      </div>
+      <style>{`
         .hero {
           padding: 6rem 0;
           text-align: center;
@@ -56,8 +56,8 @@ const Hero = () => {
           background-color: rgba(100, 108, 255, 0.1);
         }
       `}</style>
-        </section>
-    );
+    </section>
+  );
 };
 
 export default Hero;
