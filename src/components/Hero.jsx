@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Hero = ({ title }) => {
+const Hero = ({ title, description }) => {
   return (
     <section className="hero">
       <div className="container hero-content">
@@ -8,8 +8,7 @@ const Hero = ({ title }) => {
           {title || 'Explore the Future of Technology'}
         </h1>
         <p className="hero-subtitle">
-          Join us as we unravel the mysteries of AI, Web3, and the digital revolution.
-          New episodes every week.
+          {description || 'Join us as we unravel the mysteries of AI, Web3, and the digital revolution. New episodes every week.'}
         </p>
         <div className="hero-actions">
           <a href="#episodes" className="btn btn-primary">Listen Now</a>

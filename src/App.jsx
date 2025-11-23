@@ -9,15 +9,17 @@ import { fetchEpisodes } from './utils/rss';
 function App() {
   const [episodes, setEpisodes] = useState([]);
   const [title, setTitle] = useState('');
+  const [description, setDescription] = useState('');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   useEffect(() => {
     const loadEpisodes = async () => {
       try {
-        const { title, episodes } = await fetchEpisodes();
+        const { title, description, episodes } = await fetchEpisodes();
         setEpisodes(episodes);
         setTitle(title);
+        setDescription(description);
       } catch (err) {
         setError(err.message);
       } finally {
@@ -32,7 +34,7 @@ function App() {
     <div className="app">
       <Header title={title} />
       <main>
-        <Hero title={title} />
+        <Hero title={title} description={description} />
         {loading && <div className="loading">Loading episodes...</div>}
         {error && <div className="error">Error loading episodes: {error}</div>}
         {!loading && !error && <EpisodeList episodes={episodes} />}
