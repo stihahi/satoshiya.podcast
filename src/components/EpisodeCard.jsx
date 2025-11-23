@@ -45,21 +45,24 @@ const EpisodeCard = ({ episode }) => {
       </div>
       <style>{`
         .episode-card {
-          background-color: var(--card-bg);
-          border-radius: 12px;
+          background: var(--card-glass);
+          backdrop-filter: blur(12px);
+          -webkit-backdrop-filter: blur(12px);
+          border-radius: 16px;
           overflow: hidden;
-          transition: transform 0.3s, box-shadow 0.3s;
+          transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
           border: 1px solid var(--border-color);
           display: flex;
           flex-direction: column;
+          height: 100%;
         }
         .episode-card:hover {
-          transform: translateY(-5px);
-          box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-          border-color: var(--accent-color);
+          transform: translateY(-8px);
+          box-shadow: var(--shadow-lg), var(--shadow-glow);
+          border-color: rgba(99, 102, 241, 0.3);
         }
         .episode-image {
-          height: 180px;
+          height: 200px;
           background-size: cover;
           background-position: center;
           position: relative;
@@ -70,33 +73,34 @@ const EpisodeCard = ({ episode }) => {
           left: 0;
           right: 0;
           bottom: 0;
-          background-color: rgba(0, 0, 0, 0.4);
+          background: rgba(0, 0, 0, 0.3);
+          backdrop-filter: blur(2px);
           display: flex;
           align-items: center;
           justify-content: center;
           opacity: 0;
-          transition: opacity 0.3s;
+          transition: all 0.3s ease;
           cursor: pointer;
         }
         .episode-card:hover .play-overlay {
           opacity: 1;
         }
         .play-icon {
-          width: 50px;
-          height: 50px;
+          width: 60px;
+          height: 60px;
           border-radius: 50%;
-          background-color: var(--accent-color);
+          background: var(--accent-gradient);
           color: white;
-          font-size: 1.5rem;
+          font-size: 1.8rem;
           display: flex;
           align-items: center;
           justify-content: center;
           padding-left: 4px;
-          transition: transform 0.2s;
+          transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+          box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
         }
         .play-overlay:hover .play-icon {
           transform: scale(1.1);
-          background-color: var(--accent-hover);
         }
         .episode-content {
           padding: 1.5rem;
@@ -109,17 +113,19 @@ const EpisodeCard = ({ episode }) => {
           justify-content: space-between;
           font-size: 0.85rem;
           color: var(--text-secondary);
-          margin-bottom: 0.8rem;
+          margin-bottom: 1rem;
+          font-weight: 500;
         }
         .episode-title {
-          font-size: 1.2rem;
+          font-size: 1.25rem;
           margin-bottom: 0.8rem;
           line-height: 1.4;
+          font-weight: 700;
         }
         .episode-desc {
           font-size: 0.95rem;
           color: var(--text-secondary);
-          line-height: 1.5;
+          line-height: 1.6;
           display: -webkit-box;
           -webkit-line-clamp: 3;
           -webkit-box-orient: vertical;

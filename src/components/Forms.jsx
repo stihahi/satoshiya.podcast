@@ -82,77 +82,98 @@ const Forms = () => {
               <button type="submit" className="btn btn-submit">Submit {activeTab}</button>
             </form>
           </div>
-        </div >
-      </div >
+        </div>
+      </div>
       <style>{`
-            .forms - section {
-                padding: 4rem 0;
-                background- color: #131318;
-    }
-        .forms - container {
-    max - width: 600px;
-    margin: 0 auto;
-    background - color: var(--card - bg);
-    border - radius: 12px;
-    border: 1px solid var(--border - color);
-    overflow: hidden;
-}
+        .forms-section {
+          padding: 6rem 0;
+          position: relative;
+        }
+        .forms-container {
+          max-width: 600px;
+          margin: 0 auto;
+          background: var(--card-glass);
+          backdrop-filter: blur(12px);
+          -webkit-backdrop-filter: blur(12px);
+          border-radius: 24px;
+          border: 1px solid var(--border-color);
+          box-shadow: var(--shadow-lg);
+          overflow: hidden;
+        }
         .tabs {
-    display: flex;
-    border - bottom: 1px solid var(--border - color);
-}
-        .tab - btn {
-    flex: 1;
-    background: transparent;
-    border: none;
-    padding: 1rem;
-    color: var(--text - secondary);
-    font - weight: 600;
-    transition: all 0.3s;
-    border - bottom: 2px solid transparent;
-}
-        .tab - btn:hover {
-    color: var(--text - primary);
-    background - color: rgba(255, 255, 255, 0.02);
-}
-        .tab - btn.active {
-    color: var(--accent - color);
-    border - bottom - color: var(--accent - color);
-    background - color: rgba(100, 108, 255, 0.05);
-}
-        .form - content {
-    padding: 2rem;
-}
-        .form - group {
-    margin - bottom: 1.5rem;
-}
-        .form - group label {
-    display: block;
-    margin - bottom: 0.5rem;
-    color: var(--text - secondary);
-    font - size: 0.9rem;
-}
-        .form - group input,
-        .form - group textarea {
-    width: 100 %;
-    padding: 0.8rem;
-    background - color: var(--bg - color);
-    border: 1px solid var(--border - color);
-    border - radius: 6px;
-    color: var(--text - primary);
-    font - family: inherit;
-    transition: border - color 0.3s;
-}
-        .form - group input: focus,
-        .form - group textarea:focus {
-    outline: none;
-    border - color: var(--accent - color);
-}
-        .btn - submit {
-    width: 100 %;
-}
-`}</style>
-    </section >
+          display: flex;
+          padding: 0.5rem;
+          background: rgba(0, 0, 0, 0.2);
+          border-bottom: 1px solid var(--border-color);
+          gap: 0.5rem;
+        }
+        .tab-btn {
+          flex: 1;
+          background: transparent;
+          border: none;
+          padding: 1rem;
+          color: var(--text-secondary);
+          font-weight: 600;
+          font-size: 0.95rem;
+          transition: all 0.3s ease;
+          border-radius: 12px;
+          position: relative;
+          overflow: hidden;
+        }
+        .tab-btn:hover {
+          color: var(--text-primary);
+          background: rgba(255, 255, 255, 0.05);
+        }
+        .tab-btn.active {
+          color: white;
+          background: var(--accent-gradient);
+          box-shadow: var(--shadow-md);
+        }
+        .form-content {
+          padding: 2.5rem;
+        }
+        .form-group {
+          margin-bottom: 1.5rem;
+        }
+        .form-group label {
+          display: block;
+          margin-bottom: 0.8rem;
+          color: var(--text-secondary);
+          font-size: 0.9rem;
+          font-weight: 500;
+          margin-left: 4px;
+        }
+        .form-group input,
+        .form-group textarea {
+          width: 100%;
+          padding: 1rem 1.2rem;
+          background: rgba(0, 0, 0, 0.3);
+          border: 1px solid var(--border-color);
+          border-radius: 12px;
+          color: var(--text-primary);
+          font-family: inherit;
+          font-size: 1rem;
+          transition: all 0.3s ease;
+        }
+        .form-group input:focus,
+        .form-group textarea:focus {
+          outline: none;
+          border-color: var(--accent-color);
+          box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.15);
+          background: rgba(0, 0, 0, 0.5);
+        }
+        .form-group textarea {
+          resize: vertical;
+          min-height: 120px;
+        }
+        .btn-submit {
+          width: 100%;
+          padding: 1rem;
+          font-size: 1.1rem;
+          margin-top: 1rem;
+        }
+      `}</style>
+    </section>
   );
 };
 
