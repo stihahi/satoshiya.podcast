@@ -32,8 +32,8 @@ export const fetchEpisodes = async () => {
             const match = title.match(/\[EP(\d+)\]/);
             const episodeNumber = match ? parseInt(match[1], 10) : null;
 
-            // Use local thumbnail if available (We generated EP13-EP19)
-            if (episodeNumber && ((episodeNumber >= 1 && episodeNumber <= 7) || (episodeNumber >= 13 && episodeNumber <= 19))) {
+            // Use local thumbnail if available (We generated EP13-EP19, and plan for EP8-EP12)
+            if (episodeNumber && ((episodeNumber >= 8 && episodeNumber <= 19))) {
                 // Use Vite's BASE_URL to handle the deployment path correctly
                 const baseUrl = import.meta.env.BASE_URL;
                 image = `${baseUrl}thumbnails/ep${episodeNumber}.png`;
