@@ -2,14 +2,49 @@ import React, { useState } from 'react';
 
 const Forms = () => {
   const [activeTab, setActiveTab] = useState('feedback');
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [status, setStatus] = useState({ type: '', message: '' });
 
-  const handleSubmit = (e) => {
+  // TODO: User must replace this with their deployed Web App URL
+  const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyganrGyhy-5NzOWcWHlei9FYHlviqQsMcOfq6G1PmIkvAJYw590vGC59SJ_vXTHXKStw/exec';
+
+  const handleSubmit = async (e) => {
     e.preventDefault();
+    setIsSubmitting(true);
+    setStatus({ type: '', message: '' });
+
     const formData = new FormData(e.target);
     const data = Object.fromEntries(formData.entries());
-    console.log(`Submitting ${activeTab}:`, data);
-    alert(`Thank you for your ${activeTab}! (Check console for data)`);
-    e.target.reset();
+
+    // Add the type of form submission
+    data.type = activeTab;
+
+    try {
+      // We use no-cors mode because GAS web apps don't support CORS preflight well for simple POSTs
+      // However, to get a response we might need a workaround or just assume success if no error thrown
+      // Standard fetch to GAS requires 'Content-Type': 'text/plain;charset=utf-8' to avoid preflight
+
+      const response = await fetch(GOOGLE_SCRIPT_URL, {
+        method: 'POST',
+        body: JSON.stringify(data),
+        // Using text/plain avoids CORS preflight checks which GAS doesn't handle well
+        headers: {
+          'Content-Type': 'text/plain;charset=utf-8',
+        },
+      });
+
+      if (response.ok) {
+        setStatus({ type: 'success', message: `Thank you for your ${activeTab}! We received it.` });
+        e.target.reset();
+      } else {
+        throw new Error('Network response was not ok');
+      }
+    } catch (error) {
+      console.error('Error submitting form:', error);
+      setStatus({ type: 'error', message: 'Something went wrong. Please try again later.' });
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   return (
@@ -79,7 +114,15 @@ const Forms = () => {
                 </>
               )}
 
-              <button type="submit" className="btn btn-submit">Submit {activeTab}</button>
+              {status.message && (
+                <div className={`status-message ${status.type}`}>
+                  {status.message}
+                </div>
+              )}
+
+              <button type="submit" className="btn btn-submit" disabled={isSubmitting}>
+                {isSubmitting ? 'Submitting...' : `Submit ${activeTab}`}
+              </button>
             </form>
           </div>
         </div>
@@ -171,6 +214,27 @@ const Forms = () => {
           padding: 1rem;
           font-size: 1.1rem;
           margin-top: 1rem;
+        }
+        .btn-submit:disabled {
+          opacity: 0.7;
+          cursor: not-allowed;
+        }
+        .status-message {
+          padding: 1rem;
+          border-radius: 8px;
+          margin-bottom: 1rem;
+          text-align: center;
+          font-weight: 500;
+        }
+        .status-message.success {
+          background: rgba(16, 185, 129, 0.2);
+          color: #34d399;
+          border: 1px solid rgba(16, 185, 129, 0.3);
+        }
+        .status-message.error {
+          background: rgba(239, 68, 68, 0.2);
+          color: #f87171;
+          border: 1px solid rgba(239, 68, 68, 0.3);
         }
       `}</style>
     </section>
