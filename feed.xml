@@ -19,7 +19,7 @@
 <p class="p1"><a href="https://forms.gle/V1Jx5K27TN7ht5oC9" target="_blank" rel="noreferrer noopener">https://forms.gle/V1Jx5K27TN7ht5oC9</a></p>
 <p></p>
 <p>Music by SUNO.</p>]]></description>
-    <pubDate>Sat, 22 Nov 2025 16:00:00 -0400</pubDate>
+    <pubDate>Sat, 29 Nov 2025 16:00:00 -0400</pubDate>
     <generator>https://podbean.com/?v=5.5</generator>
     <language>en</language>
         <copyright>Copyright 2025 All rights reserved.</copyright>
@@ -50,6 +50,80 @@ https://forms.gle/V1Jx5K27TN7ht5oC9</itunes:summary>
         <width>144</width>
         <height>144</height>
     </image>
+    <item>
+        <title>[Special-1] Google Antigravity で30分ポッドキャストサイト制作チャレンジ</title>
+        <itunes:title>[Special-1] Google Antigravity で30分ポッドキャストサイト制作チャレンジ</itunes:title>
+        <link>https://satoshiyagafa.podbean.com/e/special-1google-antigravity%e3%81%a730%e5%88%86%e3%83%9d%e3%83%83%e3%83%89%e3%82%ad%e3%83%a3%e3%82%b9%e3%83%88%e3%82%b5%e3%82%a4%e3%83%88/</link>
+                    <comments>https://satoshiyagafa.podbean.com/e/special-1google-antigravity%e3%81%a730%e5%88%86%e3%83%9d%e3%83%83%e3%83%89%e3%82%ad%e3%83%a3%e3%82%b9%e3%83%88%e3%82%b5%e3%82%a4%e3%83%88/#comments</comments>        <pubDate>Sat, 29 Nov 2025 16:00:00 -0400</pubDate>
+        <guid isPermaLink="false">satoshiyagafa.podbean.com/6f97a71b-8cea-3cb4-b4fc-d3adb33dcbe6</guid>
+                                    <description><![CDATA[<p>シアトル在住のコモダとイワイが、Googleの新しいコーディングエージェント IDE「Antigravity」を使って、自分たちのポッドキャストサイトを“30分で”作れるかに挑戦しました。
+React＋Vite プロジェクトの自動生成から、Apple Podcast/RSS からのエピソード情報スクレイピング、ブラウザ拡張を使った自動UIテスト、エピソード再生ボタンの実装まで、ほぼノーコーディングでどこまでいけるのかをリアルタイムで検証します。AI時代のフロントエンド開発と“テストまでやってくれるIDE”の可能性を一緒にのぞいてみましょう。</p>
+<p> </p>
+<p>00:00 オープニング
+00:24 テーマ紹介：Antigravityを触る回
+01:02 Antigravityとは？
+02:05 インストール開始
+03:12 30分でサイト制作チャレンジ
+05:53 AIエージェント設定
+08:20 仕様と実装プラン自動生成
+09:52 Reactプロジェクト生成
+12:31 JSXとTypeScript雑談
+14:29 コンポーネント自動生成
+15:25 自動UIテストに驚く
+20:36 モックサイト完成
+21:19 Apple Podcastデータ取得
+22:27 RSSフィード利用へ
+24:59 エピソード再生ボタン実装
+29:00 音源再生成功
+30:53 問い合わせフォームの限界
+33:44 デプロイスクリプト生成
+37:05 公開準備完了
+38:06 まとめ
+39:03 エンディング</p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>シアトル在住のコモダとイワイが、Googleの新しいコーディングエージェント IDE「Antigravity」を使って、自分たちのポッドキャストサイトを“30分で”作れるかに挑戦しました。<br>
+React＋Vite プロジェクトの自動生成から、Apple Podcast/RSS からのエピソード情報スクレイピング、ブラウザ拡張を使った自動UIテスト、エピソード再生ボタンの実装まで、ほぼノーコーディングでどこまでいけるのかをリアルタイムで検証します。AI時代のフロントエンド開発と“テストまでやってくれるIDE”の可能性を一緒にのぞいてみましょう。</p>
+<p> </p>
+<p>00:00 オープニング<br>
+00:24 テーマ紹介：Antigravityを触る回<br>
+01:02 Antigravityとは？<br>
+02:05 インストール開始<br>
+03:12 30分でサイト制作チャレンジ<br>
+05:53 AIエージェント設定<br>
+08:20 仕様と実装プラン自動生成<br>
+09:52 Reactプロジェクト生成<br>
+12:31 JSXとTypeScript雑談<br>
+14:29 コンポーネント自動生成<br>
+15:25 自動UIテストに驚く<br>
+20:36 モックサイト完成<br>
+21:19 Apple Podcastデータ取得<br>
+22:27 RSSフィード利用へ<br>
+24:59 エピソード再生ボタン実装<br>
+29:00 音源再生成功<br>
+30:53 問い合わせフォームの限界<br>
+33:44 デプロイスクリプト生成<br>
+37:05 公開準備完了<br>
+38:06 まとめ<br>
+39:03 エンディング</p>
+<p>トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。</p>
+<p>https://forms.gle/V1Jx5K27TN7ht5oC9</p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/4398rnsd6eewqurh/special_1_normalized.mp3" length="94579341" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[シアトル在住のコモダとイワイが、Googleの新しいコーディングエージェント IDE「Antigravity」を使って、自分たちのポッドキャストサイトを“30分で”作れるかに挑戦しました。React＋Vite プロジェクトの自動生成から、Apple Podcast/RSS からのエピソード情報スクレイピング、ブラウザ拡張を使った自動UIテスト、エピソード再生ボタンの実装まで、ほぼノーコーディングでどこまでいけるのかをリアルタイムで検証します。AI時代のフロントエンド開発と“テストまでやってくれるIDE”の可能性を一緒にのぞいてみましょう。
+ 
+00:00 オープニング00:24 テーマ紹介：Antigravityを触る回01:02 Antigravityとは？02:05 インストール開始03:12 30分でサイト制作チャレンジ05:53 AIエージェント設定08:20 仕様と実装プラン自動生成09:52 Reactプロジェクト生成12:31 JSXとTypeScript雑談14:29 コンポーネント自動生成15:25 自動UIテストに驚く20:36 モックサイト完成21:19 Apple Podcastデータ取得22:27 RSSフィード利用へ24:59 エピソード再生ボタン実装29:00 音源再生成功30:53 問い合わせフォームの限界33:44 デプロイスクリプト生成37:05 公開準備完了38:06 まとめ39:03 エンディング
+トピックリスエスト、お問い合わせ、ご意見は以下フォームからお送りください。
+https://forms.gle/V1Jx5K27TN7ht5oC9]]></itunes:summary>
+        <itunes:author>satoshiyagafa</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2364</itunes:duration>
+                <itunes:episode>23</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/wi588k7796ii9v8e/special_1.vtt" type="text/vtt" />    </item>
     <item>
         <title>[EP19] エンジニア3人が語る、アメリカ生活の発見とギャップ</title>
         <itunes:title>[EP19] エンジニア3人が語る、アメリカ生活の発見とギャップ</itunes:title>
@@ -103,7 +177,7 @@ https://forms.gle/V1Jx5K27TN7ht5oC9]]></itunes:summary>
         <itunes:duration>2575</itunes:duration>
                 <itunes:episode>19</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-            </item>
+        <podcast:transcript url="https://mcdn.podbean.com/mf/web/6tgudkhmjgki8n8p/ep19.srt" type="application/srt" />    </item>
     <item>
         <title>[EP18] どうやってアメリカで働くことになったか：3人のエンジニアが話す現実</title>
         <itunes:title>[EP18] どうやってアメリカで働くことになったか：3人のエンジニアが話す現実</itunes:title>
