@@ -45,14 +45,22 @@ export const fetchEpisodes = async (): Promise<PodcastData> => {
                 "https://picsum.photos/300/200"; // Fallback placeholder
 
             // Extract episode number from title (e.g., "[EP19]")
-            const match = title.match(/\[EP(\d+)\]/);
-            const episodeNumber = match ? parseInt(match[1], 10) : null;
+            const match = title.match(/\[(EP|Special-)(\d+)\]/);
+            const episodeType = match ? (match[1] as "EP" | "Special-") : null;
+            const episodeNumber = match ? parseInt(match[2], 10) : null;
 
             // Use local thumbnail if available (We generated EP13-EP19, and plan for EP8-EP12)
-            if (episodeNumber) {
+            if (episodeType && episodeNumber) {
                 // Use Vite's BASE_URL to handle the deployment path correctly
                 const baseUrl = import.meta.env.BASE_URL;
-                image = `${baseUrl}thumbnails/ep${episodeNumber}.png`;
+                switch (episodeType) {
+                    case 'EP':
+                        image = `${baseUrl}thumbnails/ep${episodeNumber}.png`;
+                        break;
+                    case 'Special-':
+                        image = `${baseUrl}thumbnails/special-${episodeNumber}.png`;
+                        break;
+                }
             }
 
             const enclosure = item.querySelector("enclosure");
