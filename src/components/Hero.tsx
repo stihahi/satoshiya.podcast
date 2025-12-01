@@ -1,6 +1,11 @@
 import React from 'react';
 
-const Hero = ({ title, description }) => {
+interface HeroProps {
+  title: string;
+  description: string;
+}
+
+const Hero: React.FC<HeroProps> = ({ title, description }) => {
   return (
     <section className="hero">
       <div className="container hero-content">

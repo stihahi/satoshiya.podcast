@@ -1,17 +1,17 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import EpisodeList from './components/EpisodeList';
 import Forms from './components/Forms';
 import Footer from './components/Footer';
-import { fetchEpisodes } from './utils/rss';
+import { fetchEpisodes, Episode } from './utils/rss';
 
 function App() {
-  const [episodes, setEpisodes] = useState([]);
-  const [title, setTitle] = useState('');
-  const [description, setDescription] = useState('');
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+  const [episodes, setEpisodes] = useState<Episode[]>([]);
+  const [title, setTitle] = useState<string>('');
+  const [description, setDescription] = useState<string>('');
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     const loadEpisodes = async () => {
@@ -20,8 +20,8 @@ function App() {
         setEpisodes(episodes);
         setTitle(title);
         setDescription(description);
-      } catch (err) {
-        setError(err.message);
+      } catch (err: any) {
+        setError(err.message || 'An error occurred');
       } finally {
         setLoading(false);
       }

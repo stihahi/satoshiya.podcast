@@ -1,4 +1,20 @@
-export const fetchEpisodes = async () => {
+export interface Episode {
+    id: number;
+    title: string;
+    description: string;
+    date: string;
+    duration: string;
+    image: string;
+    audioUrl: string | null | undefined;
+}
+
+export interface PodcastData {
+    title: string;
+    description: string;
+    episodes: Episode[];
+}
+
+export const fetchEpisodes = async (): Promise<PodcastData> => {
     const RSS_URL = 'https://feed.podbean.com/satoshiyagafa/feed.xml';
 
     try {
@@ -16,7 +32,7 @@ export const fetchEpisodes = async () => {
         const channelDescription = rawChannelDescription.replace(/<[^>]*>?/gm, '');
 
         const items = xml.querySelectorAll("item");
-        const episodes = Array.from(items).map((item, index) => {
+        const episodes: Episode[] = Array.from(items).map((item, index) => {
             const title = item.querySelector("title")?.textContent || "No Title";
             const description = item.querySelector("description")?.textContent || "No Description";
             const pubDate = item.querySelector("pubDate")?.textContent;
@@ -33,7 +49,7 @@ export const fetchEpisodes = async () => {
             const episodeNumber = match ? parseInt(match[1], 10) : null;
 
             // Use local thumbnail if available (We generated EP13-EP19, and plan for EP8-EP12)
-            if (episodeNumber && ((episodeNumber >= 8 && episodeNumber <= 19))) {
+            if (episodeNumber) {
                 // Use Vite's BASE_URL to handle the deployment path correctly
                 const baseUrl = import.meta.env.BASE_URL;
                 image = `${baseUrl}thumbnails/ep${episodeNumber}.png`;

@@ -1,7 +1,12 @@
 import React from 'react';
 import EpisodeCard from './EpisodeCard';
+import { Episode } from '../utils/rss';
 
-const EpisodeList = ({ episodes }) => {
+interface EpisodeListProps {
+  episodes: Episode[];
+}
+
+const EpisodeList: React.FC<EpisodeListProps> = ({ episodes }) => {
   return (
     <section id="episodes" className="episodes-section">
       <div className="container">

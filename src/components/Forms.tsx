@@ -1,20 +1,26 @@
 import React, { useState } from 'react';
 
-const Forms = () => {
-  const [activeTab, setActiveTab] = useState('feedback');
-  const [isSubmitting, setIsSubmitting] = useState(false);
-  const [status, setStatus] = useState({ type: '', message: '' });
+interface Status {
+  type: string;
+  message: string;
+}
+
+const Forms: React.FC = () => {
+  const [activeTab, setActiveTab] = useState<string>('feedback');
+  const [isSubmitting, setIsSubmitting] = useState<boolean>(false);
+  const [status, setStatus] = useState<Status>({ type: '', message: '' });
 
   // TODO: User must replace this with their deployed Web App URL
   const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyganrGyhy-5NzOWcWHlei9FYHlviqQsMcOfq6G1PmIkvAJYw590vGC59SJ_vXTHXKStw/exec';
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     setIsSubmitting(true);
     setStatus({ type: '', message: '' });
 
-    const formData = new FormData(e.target);
-    const data = Object.fromEntries(formData.entries());
+    const form = e.currentTarget;
+    const formData = new FormData(form);
+    const data: any = Object.fromEntries(formData.entries());
 
     // Add the type of form submission
     data.type = activeTab;
@@ -35,7 +41,7 @@ const Forms = () => {
 
       if (response.ok) {
         setStatus({ type: 'success', message: `Thank you for your ${activeTab}! We received it.` });
-        e.target.reset();
+        form.reset();
       } else {
         throw new Error('Network response was not ok');
       }
@@ -83,7 +89,7 @@ const Forms = () => {
                   </div>
                   <div className="form-group">
                     <label htmlFor="message">Your Feedback</label>
-                    <textarea id="message" name="message" required placeholder="What do you think about the show?" rows="5"></textarea>
+                    <textarea id="message" name="message" required placeholder="What do you think about the show?" rows={5}></textarea>
                   </div>
                 </>
               )}
@@ -96,7 +102,7 @@ const Forms = () => {
                   </div>
                   <div className="form-group">
                     <label htmlFor="details">Details</label>
-                    <textarea id="details" name="details" placeholder="Any specific angles or questions?" rows="5"></textarea>
+                    <textarea id="details" name="details" placeholder="Any specific angles or questions?" rows={5}></textarea>
                   </div>
                 </>
               )}
@@ -109,7 +115,7 @@ const Forms = () => {
                   </div>
                   <div className="form-group">
                     <label htmlFor="question">Your Question</label>
-                    <textarea id="question" name="question" required placeholder="What would you like to ask us?" rows="5"></textarea>
+                    <textarea id="question" name="question" required placeholder="What would you like to ask us?" rows={5}></textarea>
                   </div>
                 </>
               )}

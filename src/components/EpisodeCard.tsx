@@ -1,18 +1,25 @@
 import React, { useState, useRef } from 'react';
 import { formatDuration } from '../utils/formatDuration';
+import { Episode } from '../utils/rss';
 
-const EpisodeCard = ({ episode }) => {
-  const [isPlaying, setIsPlaying] = useState(false);
-  const audioRef = useRef(null);
+interface EpisodeCardProps {
+  episode: Episode;
+}
 
-  const handlePlayClick = (e) => {
+const EpisodeCard: React.FC<EpisodeCardProps> = ({ episode }) => {
+  const [isPlaying, setIsPlaying] = useState<boolean>(false);
+  const audioRef = useRef<HTMLAudioElement>(null);
+
+  const handlePlayClick = (e: React.MouseEvent) => {
     e.stopPropagation();
-    if (isPlaying) {
-      audioRef.current.pause();
-    } else {
-      audioRef.current.play();
+    if (audioRef.current) {
+      if (isPlaying) {
+        audioRef.current.pause();
+      } else {
+        audioRef.current.play();
+      }
+      setIsPlaying(!isPlaying);
     }
-    setIsPlaying(!isPlaying);
   };
 
   const handleAudioEnded = () => {

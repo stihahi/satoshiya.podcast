@@ -3,10 +3,10 @@
  * @param {number|string} seconds - The duration in seconds.
  * @returns {string} The formatted duration string.
  */
-export const formatDuration = (seconds) => {
+export const formatDuration = (seconds: number | string): string => {
     if (!seconds) return '00:00';
 
-    const totalSeconds = parseInt(seconds, 10);
+    const totalSeconds = parseInt(String(seconds), 10);
     if (isNaN(totalSeconds)) return '00:00';
 
     const hours = Math.floor(totalSeconds / 3600);

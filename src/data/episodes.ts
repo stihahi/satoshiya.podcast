@@ -1,4 +1,6 @@
-export const episodes = [
+import { Episode } from '../utils/rss';
+
+export const episodes: Episode[] = [
     {
         id: 19,
         title: "[EP19] エンジニア3人が語る、アメリカ生活の発見とギャップ",
