@@ -1,4 +1,5 @@
 import React, { useState, useRef } from 'react';
+import { formatDuration } from '../utils/formatDuration';
 
 const EpisodeCard = ({ episode }) => {
   const [isPlaying, setIsPlaying] = useState(false);
@@ -31,7 +32,7 @@ const EpisodeCard = ({ episode }) => {
       <div className="episode-content">
         <div className="episode-meta">
           <span className="episode-date">{episode.date}</span>
-          <span className="episode-duration">{episode.duration}</span>
+          <span className="episode-duration">{formatDuration(episode.duration)}</span>
         </div>
         <h3 className="episode-title">{episode.title}</h3>
         <p className="episode-desc">{episode.description}</p>
