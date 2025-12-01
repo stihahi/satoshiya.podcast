@@ -23,9 +23,19 @@ export const fetchEpisodes = async () => {
 
             // Handle namespaced elements
             const duration = item.getElementsByTagName("itunes:duration")[0]?.textContent || "";
-            const image = item.getElementsByTagName("itunes:image")[0]?.getAttribute("href") ||
+
+            let image = item.getElementsByTagName("itunes:image")[0]?.getAttribute("href") ||
                 xml.querySelector("image > url")?.textContent || // Fallback to channel image
                 "https://picsum.photos/300/200"; // Fallback placeholder
+
+            // Extract episode number from title (e.g., "[EP19]")
+            const match = title.match(/\[EP(\d+)\]/);
+            const episodeNumber = match ? parseInt(match[1], 10) : null;
+
+            // Use local thumbnail if available (We generated EP13-EP19)
+            if (episodeNumber && episodeNumber >= 13 && episodeNumber <= 19) {
+                image = `/thumbnails/ep${episodeNumber}.png`;
+            }
 
             const enclosure = item.querySelector("enclosure");
             const audioUrl = enclosure?.getAttribute("url");
