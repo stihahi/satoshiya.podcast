@@ -40,7 +40,7 @@ function App() {
         {!loading && !error && <EpisodeList episodes={episodes} />}
         <Forms />
       </main>
-      <Footer />
+      <Footer title={title} />
       <style>{`
         .loading, .error {
           text-align: center;

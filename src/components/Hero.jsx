@@ -54,6 +54,11 @@ const Hero = ({ title, description }) => {
           border-color: var(--accent-color);
           background-color: rgba(100, 108, 255, 0.1);
         }
+        @media (max-width: 600px) {
+          .hero-title {
+            font-size: 2.2rem;
+          }
+        }
       `}</style>
     </section>
   );
