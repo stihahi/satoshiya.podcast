@@ -34,7 +34,9 @@ export const fetchEpisodes = async () => {
 
             // Use local thumbnail if available (We generated EP13-EP19)
             if (episodeNumber && episodeNumber >= 13 && episodeNumber <= 19) {
-                image = `/thumbnails/ep${episodeNumber}.png`;
+                // Use Vite's BASE_URL to handle the deployment path correctly
+                const baseUrl = import.meta.env.BASE_URL;
+                image = `${baseUrl}thumbnails/ep${episodeNumber}.png`;
             }
 
             const enclosure = item.querySelector("enclosure");
