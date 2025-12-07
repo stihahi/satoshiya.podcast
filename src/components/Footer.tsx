@@ -1,4 +1,5 @@
 import React from 'react';
+import pipeIcon from '../assets/pipe_icon.png';
 
 interface FooterProps {
   title: string;
@@ -9,7 +10,7 @@ const Footer: React.FC<FooterProps> = ({ title }) => {
     <footer className="footer">
       <div className="container footer-content">
         <div className="footer-logo">
-          <span className="logo-icon">🎙️</span>
+          <img src={pipeIcon} alt="logo" className="logo-icon" />
           <span>{title}</span>
         </div>
         <div className="footer-links">
@@ -40,8 +41,9 @@ const Footer: React.FC<FooterProps> = ({ title }) => {
             align-items: center;
             gap: 0.5rem;
           }
-          .footer-logo span.logo-icon {
-            font-size: 1.8rem;
+          .footer-logo .logo-icon {
+            width: 1.8rem;
+            height: 1.8rem;
           }
           .footer-links {
             display: flex;

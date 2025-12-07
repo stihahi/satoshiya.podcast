@@ -1,4 +1,5 @@
 import React from 'react';
+import pipeIcon from '../assets/pipe_icon.png';
 
 interface HeaderProps {
   title: string;
@@ -9,7 +10,7 @@ const Header: React.FC<HeaderProps> = ({ title }) => {
     <header className="header">
       <div className="container header-content">
         <div className="logo">
-          <span className="logo-icon">🎙️</span>
+          <img src={pipeIcon} alt="logo" className="logo-icon" />
           <span className="logo-text">{title || 'TechTalks'}</span>
         </div>
         <nav className="nav">
@@ -42,7 +43,8 @@ const Header: React.FC<HeaderProps> = ({ title }) => {
             color: var(--text-primary);
           }
           .logo-icon {
-            font-size: 1.8rem;
+            width: 1.8rem;
+            height: 1.8rem;
           }
           .logo-text {
             font-size: 1.5rem;
