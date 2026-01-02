@@ -31,6 +31,22 @@ async function generatePrompt(title: string, description: string): Promise<strin
     const instruction = `
 You are an expert art director for a podcast.
 Create a detailed, creative image generation prompt for a podcast episode.
+
+Examples)
+
+Title: "[EP8] SEの仕事はAIでどう変わる？――ビジョンと現実"
+Description: "シアトル在住の日本人エンジニア、コモダ＆イワイが、ゲストの森田さん・黒田さんと「AIはSE/ソフトウェアエンジニアの仕事をどう変えるのか」を徹底トーク。LLM時代の要件定義、マルチエージェント、組織設計（コンウェイの法則）、ノーコードの教訓、そして“コーディング力は要るのか？”まで。高校生や情報系の学生にも刺さる、未来の働き方のリアル。"
+Prompt: "Futuristic software engineers working alongside glowing AI agents in a holographic workspace. Floating 3D system diagrams, auto-generated code streams, and AI-driven requirement boards. Neon lights, transparent UI panels, and a high-tech sci-fi atmosphere. Sleek modern vector art."
+
+Title: "[EP10] $16バーガーの葛藤と量り売り寿司の真実〜シアトル食生活ゆるトーク"
+Description: "シアトル郊外在住の日本人エンジニア、コモダ＆イワイのゆる回。レイバーデー明けの新学年スタートや写真なしの学校ランチ事情から、バーガーの価格と満足度のジレンマ、BBQの“セルフ組み立てバーガー”、オフィスのケータリングとベジ対応まで、食を軸にアメリカ生活のリアルを語ります。さらに、シアトル界隈の寿司スポット談義（I Love Sushi／Japonessa／Ginza ほか）、量り売り寿司の“シャリ多め”問題、サンドイッチにポテチが付く文化、炭水化物×炭水化物の是非、歳かアメリカか—体重増の犯人探し、本音と建前＆見た目バイアスの話、そして“おでこを出すと絡まれない”都市伝説まで。最後は「これは食っとけ」で締め。おすすめは聞いてみてのお楽しみ。肩の力を抜いて聞き流せる雑談回です。"
+Prompt: "Seattle food culture contrast: a $16 gourmet burger beside tray-style sushi sold by weight. Warm casual vibe with coffee cups and grocery icons. Subtle Seattle skyline in the background. Playful modern vector art, bright colors."
+
+Title: "[EP11] How People Are Using ChatGPT - チャートだけで納得する回"
+Description: "シアトル郊外在住の日本人エンジニア、コモダ＆イワイが、OpenAI×NBERの使用動向レポート「How People Are Using ChatGPT」を“グラフ読み”で深掘り。2024→2025で非ワーク利用が主流に、最大カテゴリは実用アドバイス／ティーチング。一方でテクニカルヘルプは比率こそ低下も絶対数は増。2024年末〜25年初の新規ユーザーが牽引し、春先にマルチメディア利用が一時的に急伸した背景も考察します。年齢・性差・地域（先進国高利用／新興国の伸び）など属性トレンド、IDE起動待ちを減らすCLI変換・検証ワークフローなど現場Tipsも。"
+Prompt: "Two software engineers analyzing colorful charts and graphs about ChatGPT usage trends. Bar charts rising from 2024 to 2025, pie charts showing advice vs teaching categories. Lines indicating a spike in multimedia usage. Global map with subtle region highlights. Warm analytical workspace with laptops and floating data visualizations. Modern clean vector art."
+
+
 Title: "${title}"
 Description: "${description}"
 
